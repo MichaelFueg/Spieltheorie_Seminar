@@ -1,0 +1,53 @@
+\section{Dynamische private Informationen}
+
+\begin{frame}
+\frametitle{Modelrahmen}
+\justifying
+Modellrahmen ist Zwei-Personen Spiel:
+\begin{itemize}
+    \item \textcolor{blue}{Verk"aufer}
+    \begin{itemize}
+      \item Verkauft unteilbares Gut
+      \item Slegt Mechanismus $\Gamma$ fest
+    \end{itemize}
+    \item \textcolor{blue}{K"aufer}
+    \begin{itemize}
+      \item Bewertet Gut durch $\theta > 0$
+      \item $\theta$ erst nach Aktzeptieren des Mechanismus $\Gamma$ bekannt
+      \item Erh"alt aber vorher Signal $\tau$, welches mit $\theta$ korreliert ist
+    \end{itemize}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Mathemtische Modellierung}
+\justifying
+Sei im Folgenden f"ur das Signal $\tau$
+\begin{itemize}
+    \item Kommulierte Verteilung $G(\tau)$
+    \item Positive Dichte $g(\tau)$
+    \item Tr"agermenge $[ \b{\tau} , \bar{\tau} ]$
+\end{itemize}
+
+Sei im Folgenden f"ur die Bewertung $\theta$
+\begin{itemize}
+    \item Kommulierte Verteilung $F(\theta \mid \tau)$
+    \item Positive Dichte $f(\theta \mid \tau)$
+    \item Tr"agermenge $[ \b{\theta} , \bar{\theta} ]$ mit $0 \leq \b{\theta} < \bar{\theta} $ f"ur alle $\tau \in [ \b{\tau} , \bar{\tau} ]$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Annahmen}
+\justifying
+Wir setzen im Folgenden voraus, dass
+\begin{itemize}
+    \item $F(\theta \mid \tau)$ und $f(\theta \mid \tau)$ stetig differenzierbar in $\tau$ sind
+    \item F"ur die Familie $F( \cdot \mid \tau)$ mit $\tau \in [ \b{\tau} , \bar{\tau} ]$ gilt
+    \begin{equation}
+      \tag{FOSD}
+      \delta F(\theta \mid \tau)/ \delta \tau < 0 \ f"ur \ alle \ \theta \in [ \b{\theta} , \bar{\theta} ]
+    \end{equation}
+  \end{itemize}
+\end{frame}

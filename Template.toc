@@ -2,3 +2,5 @@
 \select@language {ngerman}
 \select@language {ngerman}
 \beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
+\beamer@sectionintoc {2}{Dynamische private Informationen}{4}{0}{2}
+\beamer@sectionintoc {3}{Dynamische Allokationen}{7}{0}{3}
