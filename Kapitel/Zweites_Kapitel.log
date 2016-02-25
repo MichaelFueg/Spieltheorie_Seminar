@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.7)  25 DEC 2015 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.7)  25 FEB 2016 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -70,16 +70,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 \frametitle
-               {Modelrahmen}
+l.4   \frametitle
+                 {Modelrahmen}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ./Zweites_Kapitel.tex:4: Undefined control sequence.
 <argument> \frametitle 
                        
-l.4 \frametitle
-               {Modelrahmen}
+l.4   \frametitle
+                 {Modelrahmen}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -98,8 +98,8 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 ./Zweites_Kapitel.tex:5: Undefined control sequence.
-l.5 \justifying
-               
+l.5   \justifying
+                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -251,7 +251,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no g in font nullfont!
+Missing character: There is no G in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -377,23 +377,11 @@ Overfull \hbox (4.97223pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 ^^R$
  []
 
-
-./Zweites_Kapitel.tex:24: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \frametitle
-                {Mathemtische Modellierung}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./Zweites_Kapitel.tex:24: Undefined control sequence.
+./Zweites_Kapitel.tex:23: Undefined control sequence.
 <argument> \frametitle 
                        
-l.24 \frametitle
-                {Mathemtische Modellierung}
+l.23   \frametitle
+                  {Mathemtische Modellierung}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -424,9 +412,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-./Zweites_Kapitel.tex:25: Undefined control sequence.
-l.25 \justifying
-                
+./Zweites_Kapitel.tex:24: Undefined control sequence.
+l.24   \justifying
+                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -461,12 +449,12 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 24--27
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--26
 [][]
  []
 
 
-Overfull \hbox (5.50348pt too wide) in paragraph at lines 24--27
+Overfull \hbox (5.50348pt too wide) in paragraph at lines 23--26
 \OML/cmm/m/it/10 ^^\$ 
  []
 
@@ -492,7 +480,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 
-Overfull \hbox (21.14377pt too wide) in paragraph at lines 28--29
+Overfull \hbox (21.14377pt too wide) in paragraph at lines 27--28
 \OML/cmm/m/it/10 G\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^\\OT1/cmr/m/n/10 )$ 
  []
 
@@ -510,9 +498,11 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no f in font nullfont!
+
+Overfull \hbox (18.40974pt too wide) in paragraph at lines 28--29
+\OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^\\OT1/cmr/m/n/10 )$ 
+ []
+
 Missing character: There is no T in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no " in font nullfont!
@@ -540,8 +530,8 @@ LaTeX Font Warning: Font shape `/cmr/m/n' undefined
 ./Zweites_Kapitel.tex:29: Corrupted NFSS tables.
 wrong@fontshape ...message {Corrupted NFSS tables}
                                                   error@fontshape else let f...
-l.29 ...chte $g(\tau)$ auf Tr"agermenge $[\b{\tau}
-                                                  , \={\tau}]$
+l.29     \item Tr"agermenge $[ \b{\tau}
+                                        , \bar{\tau} ]$
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
 Pretend that you're Hercule Poirot: Examine all clues,
@@ -554,155 +544,1002 @@ LaTeX Font Warning: Font shape `/cmr/m/n' undefined
 ./Zweites_Kapitel.tex:29: Missing $ inserted.
 <inserted text> 
                 $
-l.29 ...chte $g(\tau)$ auf Tr"agermenge $[\b{\tau}
-                                                  , \={\tau}]$
+l.29     \item Tr"agermenge $[ \b{\tau}
+                                        , \bar{\tau} ]$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ./Zweites_Kapitel.tex:29: Missing $ inserted.
 <inserted text> 
                 $
-l.29 ...chte $g(\tau)$ auf Tr"agermenge $[\b{\tau}
-                                                  , \={\tau}]$
+l.29     \item Tr"agermenge $[ \b{\tau}
+                                        , \bar{\tau} ]$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \= invalid in math mode on input line 29.
+Overfull \hbox (21.00694pt too wide) in paragraph at lines 29--30
+\OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 ]$ 
+ []
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 31--32
+      $\OML/cmm/m/it/10 ^^R$ 
+ []
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (22.23608pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
 
 
-LaTeX Warning: Command \= invalid in math mode on input line 29.
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 33--34
+\OML/cmm/m/it/10 ^^\\OT1/cmr/m/n/10 )$ 
+ []
 
-./Zweites_Kapitel.tex:29: Missing $ inserted.
+Missing character: There is no K in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.38889pt too wide) in paragraph at lines 34--35
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 34--35
+\OML/cmm/m/it/10 ^^\\OT1/cmr/m/n/10 )$ 
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 35.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 35.
+
+./Zweites_Kapitel.tex:35: Missing $ inserted.
 <inserted text> 
                 $
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
+l.35     \item Tr"agermenge $[ \b{\theta}
+                                          , \bar{\theta} ]$ mit $0 \leq \b{\...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Zweites_Kapitel.tex:29: Improper \spacefactor.
-<recently read> \spacefactor 
-                             
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
+./Zweites_Kapitel.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35     \item Tr"agermenge $[ \b{\theta}
+                                          , \bar{\theta} ]$ mit $0 \leq \b{\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-./Zweites_Kapitel.tex:29: Extra }, or forgotten $.
-\add@accent ... \accent@spacefactor \spacefactor }
-                                                  \accent #1 #2\egroup \spac...
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
 
-./Zweites_Kapitel.tex:29: Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-./Zweites_Kapitel.tex:29: Missing { inserted.
-<to be read again> 
-                   \edef 
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-./Zweites_Kapitel.tex:29: You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-./Zweites_Kapitel.tex:29: Extra }, or forgotten $.
-\UseTextAccent ...se@text@encoding \@curr@enc #3}}
-                                                  
-l.29 ...au)$ auf Tr"agermenge $[\b{\tau}, \={\tau}
-                                                  ]$
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+LaTeX Warning: Command \b invalid in math mode on input line 35.
 
 
-./Zweites_Kapitel.tex:30: LaTeX Error: Something's wrong--perhaps a missing \item.
+LaTeX Warning: Command \b invalid in math mode on input line 35.
+
+./Zweites_Kapitel.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35 ...} , \bar{\theta} ]$ mit $0 \leq \b{\theta}
+                                                   < \bar{\theta} $ f"ur all...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35 ...} , \bar{\theta} ]$ mit $0 \leq \b{\theta}
+                                                   < \bar{\theta} $ f"ur all...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 35.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 35.
+
+./Zweites_Kapitel.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35 ...r{\theta} $ f"ur alle $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35 ...r{\theta} $ f"ur alle $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (19.94444pt too wide) in paragraph at lines 35--36
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (15.55553pt too wide) in paragraph at lines 35--36
+\/cmr/m/n/10 0 \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (15.52774pt too wide) in paragraph at lines 35--36
+[] \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 35--36
+[]$
+ []
+
+
+Overfull \hbox (14.94788pt too wide) in paragraph at lines 35--36
+\OML/cmm/m/it/10 ^^\ \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (21.00694pt too wide) in paragraph at lines 35--36
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$ 
+ []
+
+./Zweites_Kapitel.tex:40: Undefined control sequence.
+<argument> \frametitle 
+                       
+l.40   \frametitle
+                  {Annahmen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+./Zweites_Kapitel.tex:41: Undefined control sequence.
+l.41   \justifying
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 40--43
+[][]
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 44.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 44.
+
+./Zweites_Kapitel.tex:44: Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...on $F(\theta \mid \tau)$ ist $[ \b{\theta}
+                                                   , \bar{\theta} ]$ f"ur alle
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:44: Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...on $F(\theta \mid \tau)$ ist $[ \b{\theta}
+                                                   , \bar{\theta} ]$ f"ur alle
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 45.
+
+./Zweites_Kapitel.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45     $\tau \in [ \b{\tau}
+                              , \bar{\tau} ], 0 \leq \b{\theta} < \bar{\theta}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45     $\tau \in [ \b{\tau}
+                              , \bar{\tau} ], 0 \leq \b{\theta} < \bar{\theta}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 45.
+
+./Zweites_Kapitel.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 ...\b{\tau} , \bar{\tau} ], 0 \leq \b{\theta}
+                                                   < \bar{\theta}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 ...\b{\tau} , \bar{\tau} ], 0 \leq \b{\theta}
+                                                   < \bar{\theta}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.23608pt too wide) in paragraph at lines 44--46
+\OML/cmm/m/it/10 F\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 44--46
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (19.94444pt too wide) in paragraph at lines 44--46
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (14.94788pt too wide) in paragraph at lines 44--46
+\OML/cmm/m/it/10 ^^\ \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (41.00688pt too wide) in paragraph at lines 44--46
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]\OML/cmm/m/it/10 ; \/cmr/m/n/10 0 \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (15.52774pt too wide) in paragraph at lines 44--46
+[] \OML/cmm/m/it/10 <
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 44--46
+[]$ 
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (22.23608pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 F\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (5.50348pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 ^^\$ 
+ []
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 47.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 47.
+
+./Zweites_Kapitel.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 ... \tau) > 0$ f"ur alle $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 ... \tau) > 0$ f"ur alle $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 48.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 48.
+
+./Zweites_Kapitel.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48     und $\theta \in [ \b{\theta}
+                                      , \bar{\theta} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:48: Missing $ inserted.
+<inserted text> 
+                $
+l.48     und $\theta \in [ \b{\theta}
+                                      , \bar{\theta} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.38889pt too wide) in paragraph at lines 47--49
+\OML/cmm/m/it/10 f\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (19.94789pt too wide) in paragraph at lines 47--49
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 ) \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 47--49
+\/cmr/m/n/10 0$
+ []
+
+
+Overfull \hbox (14.94788pt too wide) in paragraph at lines 47--49
+\OML/cmm/m/it/10 ^^\ \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (21.00694pt too wide) in paragraph at lines 47--49
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (14.41663pt too wide) in paragraph at lines 47--49
+\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (19.94444pt too wide) in paragraph at lines 47--49
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$ 
+ []
+
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (22.23608pt too wide) in paragraph at lines 49--50
+\OML/cmm/m/it/10 F\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 49--50
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (20.38889pt too wide) in paragraph at lines 49--50
+\OML/cmm/m/it/10 f\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 49--50
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (5.50348pt too wide) in paragraph at lines 49--50
+\OML/cmm/m/it/10 ^^\$ 
+ []
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 50.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 50.
+
+./Zweites_Kapitel.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 ...\cdot \mid \tau)$ mit $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$ gilt
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:50: Missing $ inserted.
+<inserted text> 
+                $
+l.50 ...\cdot \mid \tau)$ mit $\tau \in [ \b{\tau}
+                                                   , \bar{\tau} ]$ gilt
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.04164pt too wide) in paragraph at lines 50--51
+\OML/cmm/m/it/10 F\/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^A j
+ []
+
+
+Overfull \hbox (9.39238pt too wide) in paragraph at lines 50--51
+\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (14.94788pt too wide) in paragraph at lines 50--51
+\OML/cmm/m/it/10 ^^\ \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (21.00694pt too wide) in paragraph at lines 50--51
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+./Zweites_Kapitel.tex:52: Undefined control sequence.
+l.52       \tag
+               {FOSD}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 53.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 53.
+
+./Zweites_Kapitel.tex:53: Missing $ inserted.
+<inserted text> 
+                $
+l.53 ... 0 \ f"ur \ alle \ \theta \in [ \b{\theta}
+                                                   , \bar{\theta} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:53: Missing $ inserted.
+<inserted text> 
+                $
+l.53 ... 0 \ f"ur \ alle \ \theta \in [ \b{\theta}
+                                                   , \bar{\theta} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (178.80728pt too wide) detected at line 54
+[]\OML/cmm/m/it/10 ^^NF\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R \OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )\OML/cmm/m/it/10 =^^N^^\ < \/cmr/m/n/10 0 \OML/cmm/m/it/10 f\/cmr/m/n/10 "\OML/cmm/m/it/10 ur alle ^^R \OMS/cmsy/m/n/10 2 \/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]
+ []
+
+./Zweites_Kapitel.tex:59: Undefined control sequence.
+<argument> \frametitle 
+                       
+l.59   \frametitle
+                  {Dynamischer direkter Mechanismus}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+./Zweites_Kapitel.tex:60: Undefined control sequence.
+l.60   \justifying
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Zweites_Kapitel.tex:61: LaTeX Error: Environment thmD undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 \end{itemize}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.61   \begin{thmD}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
+Missing character: There is no E in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+./Zweites_Kapitel.tex:62: Undefined control sequence.
+l.62     Ein \textcolor
+                       {blue}{dynamischer direkter Mechanismus} besteht aus ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-./Zweites_Kapitel.tex:30: LaTeX Error: Something's wrong--perhaps a missing \item.
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+
+./Zweites_Kapitel.tex:63: LaTeX Error: Environment equation* undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 \end{itemize}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.63     \begin{equation*}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-./Zweites_Kapitel.tex:30: Missing } inserted.
-<inserted text> 
-                }
-l.30 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Zweites_Kapitel.tex:30: Missing } inserted.
-<inserted text> 
-                }
-l.30 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Zweites_Kapitel.tex:30: Missing } inserted.
-<inserted text> 
-                }
-l.30 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./Zweites_Kapitel.tex:30: Missing $ inserted.
+Missing character: There is no q in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no [ in font nullfont!
+./Zweites_Kapitel.tex:64: Missing $ inserted.
 <inserted text> 
                 $
-l.30 \end{itemize}
-                  
+l.64       q:[ \b{\tau}
+                        , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+l.64       q:[ \b{\tau}
+                        , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no , in font nullfont!
+./Zweites_Kapitel.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+l.64       q:[ \b{\tau} , \bar
+                              {\tau} ] \times [ \b{\theta} , \bar{\theta} ] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 64.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 64.
+
+./Zweites_Kapitel.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+l.64 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ] \rightar...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+l.64 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ] \rightar...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:65: Undefined control sequence.
+l.65       \quad \text
+                      {und} \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 66.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 66.
+
+./Zweites_Kapitel.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66       t:[ \b{\tau}
+                        , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66       t:[ \b{\tau}
+                        , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 66.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 66.
+
+./Zweites_Kapitel.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ] \rightar...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ] \rightar...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:66: Undefined control sequence.
+l.66 ...heta} , \bar{\theta} ] \rightarrow \mathbb
+                                                  {R}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Zweites_Kapitel.tex:67: LaTeX Error: \begin{frame} on input line 58 ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67     \end{equation*}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Zweites_Kapitel.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+l.67     \end{equation*}
+                        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -710,14 +1547,1031 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (18.40974pt too wide) in paragraph at lines 29--31
-\OML/cmm/m/it/10 g\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^\\/cmr/m/n/10 )$
+./Zweites_Kapitel.tex:68: LaTeX Error: \begin{frame} on input line 58 ended by \end{thmD}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68   \end{thmD}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no Z in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 59--70
+[][]
  []
 
 
-Overfull \hbox (12.72568pt too wide) in paragraph at lines 29--31
-\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []$ 
+Overfull \hbox (5.50348pt too wide) in paragraph at lines 59--70
+[]
  []
+
+
+Overfull \hbox (16.05907pt too wide) in paragraph at lines 59--70
+[]\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (32.72217pt too wide) in paragraph at lines 59--70
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (46.09842pt too wide) in paragraph at lines 59--70
+\/cmr/m/n/10 [0\OML/cmm/m/it/10 ; \/cmr/m/n/10 1] [] \OML/cmm/m/it/10 t \/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (28.78474pt too wide) in paragraph at lines 59--70
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (32.72217pt too wide) in paragraph at lines 59--70
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (10.44794pt too wide) in paragraph at lines 59--70
+\OML/cmm/m/it/10 R:$
+ []
+
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 71.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 71.
+
+./Zweites_Kapitel.tex:71: Missing $ inserted.
+<inserted text> 
+                $
+l.71 ...de nun das kartesische Produkt $[ \b{\tau}
+                                                   , \bar{\tau} ] \times [ \...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:71: Missing $ inserted.
+<inserted text> 
+                $
+l.71 ...de nun das kartesische Produkt $[ \b{\tau}
+                                                   , \bar{\tau} ] \times [ \...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 71.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 71.
+
+./Zweites_Kapitel.tex:71: Missing $ inserted.
+<inserted text> 
+                $
+l.71 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:71: Missing $ inserted.
+<inserted text> 
+                $
+l.71 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ]$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.78474pt too wide) in paragraph at lines 71--72
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (19.94444pt too wide) in paragraph at lines 71--72
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$ 
+ []
+
+Missing character: There is no ? in font nullfont!
+./Zweites_Kapitel.tex:77: Undefined control sequence.
+<argument> \frametitle 
+                       
+l.77   \frametitle
+                  {Ein-Personen-Entscheidungsproblem}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no E in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+./Zweites_Kapitel.tex:78: Undefined control sequence.
+l.78   \justifying
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--80
+[][]
+ []
+
+
+Overfull \hbox (16.62842pt too wide) in paragraph at lines 77--80
+\OML/cmm/m/it/10 ^^[ \/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (32.62273pt too wide) in paragraph at lines 77--80
+\/cmr/m/n/10 (\OML/cmm/m/it/10 ^^[[]; ^^[[]\/cmr/m/n/10 )$ 
+ []
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 81.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 81.
+
+./Zweites_Kapitel.tex:81: Missing $ inserted.
+<inserted text> 
+                $
+l.81     \item $\sigma_{1}: [ \b{\tau}
+                                       , \bar{\tau} ] \rightarrow [ \b{\tau}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:81: Missing $ inserted.
+<inserted text> 
+                $
+l.81     \item $\sigma_{1}: [ \b{\tau}
+                                       , \bar{\tau} ] \rightarrow [ \b{\tau}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 81.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 81.
+
+./Zweites_Kapitel.tex:81: Missing $ inserted.
+<inserted text> 
+                $
+l.81 ...tau} , \bar{\tau} ] \rightarrow [ \b{\tau}
+                                                   , \bar{\tau} ]$ (Report e...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:81: Missing $ inserted.
+<inserted text> 
+                $
+l.81 ...tau} , \bar{\tau} ] \rightarrow [ \b{\tau}
+                                                   , \bar{\tau} ]$ (Report e...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (15.75575pt too wide) in paragraph at lines 81--82
+\OML/cmm/m/it/10 ^^[[] \/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (33.78467pt too wide) in paragraph at lines 81--82
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (21.00694pt too wide) in paragraph at lines 81--82
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (5.50348pt too wide) in paragraph at lines 81--82
+\OML/cmm/m/it/10 ^^\$ 
+ []
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 82.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 82.
+
+./Zweites_Kapitel.tex:82: Missing $ inserted.
+<inserted text> 
+                $
+l.82     \item $\sigma_{2}: [ \b{\tau}
+                                       , \bar{\tau} ] \times [ \b{\theta} , ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:82: Missing $ inserted.
+<inserted text> 
+                $
+l.82     \item $\sigma_{2}: [ \b{\tau}
+                                       , \bar{\tau} ] \times [ \b{\theta} , ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 82.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 82.
+
+./Zweites_Kapitel.tex:82: Missing $ inserted.
+<inserted text> 
+                $
+l.82 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:82: Missing $ inserted.
+<inserted text> 
+                $
+l.82 ...b{\tau} , \bar{\tau} ] \times [ \b{\theta}
+                                                   , \bar{\theta} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 83.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 83.
+
+./Zweites_Kapitel.tex:83: Missing $ inserted.
+<inserted text> 
+                $
+l.83     \times [ \b{\tau}
+                           , \bar{\tau} ]  \rightarrow [ \b{\theta} , \bar{\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:83: Missing $ inserted.
+<inserted text> 
+                $
+l.83     \times [ \b{\tau}
+                           , \bar{\tau} ]  \rightarrow [ \b{\theta} , \bar{\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 83.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 83.
+
+./Zweites_Kapitel.tex:83: Missing $ inserted.
+<inserted text> 
+                $
+l.83 ...} , \bar{\tau} ]  \rightarrow [ \b{\theta}
+                                                   , \bar{\theta} ]$ (Report...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:83: Missing $ inserted.
+<inserted text> 
+                $
+l.83 ...} , \bar{\tau} ]  \rightarrow [ \b{\theta}
+                                                   , \bar{\theta} ]$ (Report...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (15.75575pt too wide) in paragraph at lines 82--84
+\OML/cmm/m/it/10 ^^[[] \/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (28.78474pt too wide) in paragraph at lines 82--84
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (27.72224pt too wide) in paragraph at lines 82--84
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (33.78467pt too wide) in paragraph at lines 82--84
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ] \OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (19.94444pt too wide) in paragraph at lines 82--84
+\/cmr/m/n/10 [[]\OML/cmm/m/it/10 ; []\/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 82--84
+\OML/cmm/m/it/10 ^^R$ 
+ []
+
+./Zweites_Kapitel.tex:88: Undefined control sequence.
+<argument> \frametitle 
+                       
+l.88   \frametitle
+                  {?}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ? in font nullfont!
+
+./Zweites_Kapitel.tex:89: LaTeX Error: Environment thmP undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89   \begin{thmP}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./Zweites_Kapitel.tex:94: LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94     \begin{equation*}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Zweites_Kapitel.tex:95: Missing $ inserted.
+<inserted text> 
+                $
+l.95       \sigma
+                 _{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 95.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 95.
+
+./Zweites_Kapitel.tex:95: Missing $ inserted.
+<inserted text> 
+                $
+l.95 ...\tau) = \tau \ \forall  \tau \in [\b{\tau}
+                                                   , \bar{\tau} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:95: Missing $ inserted.
+<inserted text> 
+                $
+l.95 ...\tau) = \tau \ \forall  \tau \in [\b{\tau}
+                                                   , \bar{\tau} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:96: Undefined control sequence.
+l.96       \quad \text
+                      {und} \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 97.
+
+./Zweites_Kapitel.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...= \theta \ \forall  \theta \in [\b{\theta}
+                                                   , \bar{\theta} ], \tau \i...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...= \theta \ \forall  \theta \in [\b{\theta}
+                                                   , \bar{\theta} ], \tau \i...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 97.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 97.
+
+./Zweites_Kapitel.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...heta} , \bar{\theta} ], \tau \in [\b{\tau}
+                                                   , \bar{\tau} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...heta} , \bar{\theta} ], \tau \in [\b{\tau}
+                                                   , \bar{\tau} ]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./Zweites_Kapitel.tex:98: LaTeX Error: \begin{frame} on input line 87 ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98     \end{equation*}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Zweites_Kapitel.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+l.98     \end{equation*}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \b invalid in math mode on input line 100.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 100.
+
+./Zweites_Kapitel.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100     $(\tau, \theta) \in [\b{\theta}
+                                          , \bar{\theta} ] \times [\b{\tau} ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100     $(\tau, \theta) \in [\b{\theta}
+                                          , \bar{\theta} ] \times [\b{\tau} ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 100.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 100.
+
+./Zweites_Kapitel.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100 ...\theta} , \bar{\theta} ] \times [\b{\tau}
+                                                   , \bar{\tau} ]$ die
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Zweites_Kapitel.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100 ...\theta} , \bar{\theta} ] \times [\b{\tau}
+                                                   , \bar{\tau} ]$ die
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+
+./Zweites_Kapitel.tex:103: LaTeX Error: \begin{frame} on input line 87 ended by \end{thmP}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103   \end{thmP}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 )
 ! Emergency stop.
@@ -727,11 +2581,11 @@ Overfull \hbox (12.72568pt too wide) in paragraph at lines 29--31
 
  
 Here is how much of TeX's memory you used:
- 23 strings out of 493089
- 286 string characters out of 6134842
- 55199 words of memory out of 5000000
- 3607 multiletter control sequences out of 15000+600000
+ 29 strings out of 493089
+ 337 string characters out of 6134842
+ 64199 words of memory out of 5000000
+ 3613 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,9n,16p,112b,162s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18i,9n,16p,178b,162s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

@@ -1,10 +1,10 @@
 \section{Dynamische private Informationen}
 
 \begin{frame}
-\frametitle{Modelrahmen}
-\justifying
-Modellrahmen ist Zwei-Personen Spiel:
-\begin{itemize}
+  \frametitle{Modelrahmen}
+  \justifying
+  Modellrahmen ist Zwei-Personen Spiel:
+  \begin{itemize}
     \item \textcolor{blue}{Verk"aufer}
     \begin{itemize}
       \item Verkauft unteilbares Gut
@@ -16,38 +16,89 @@ Modellrahmen ist Zwei-Personen Spiel:
       \item $\theta$ erst nach Aktzeptieren des Mechanismus $\Gamma$ bekannt
       \item Erh"alt aber vorher Signal $\tau$, welches mit $\theta$ korreliert ist
     \end{itemize}
-\end{itemize}
-
+  \end{itemize}
 \end{frame}
 
 \begin{frame}
-\frametitle{Mathemtische Modellierung}
-\justifying
-Sei im Folgenden f"ur das Signal $\tau$
-\begin{itemize}
+  \frametitle{Mathemtische Modellierung}
+  \justifying
+  Sei im Folgenden f"ur das Signal $\tau$
+  \begin{itemize}
     \item Kommulierte Verteilung $G(\tau)$
     \item Positive Dichte $g(\tau)$
     \item Tr"agermenge $[ \b{\tau} , \bar{\tau} ]$
-\end{itemize}
-
-Sei im Folgenden f"ur die Bewertung $\theta$
-\begin{itemize}
+  \end{itemize}
+  Sei im Folgenden f"ur die Bewertung $\theta$
+  \begin{itemize}
     \item Kommulierte Verteilung $F(\theta \mid \tau)$
-    \item Positive Dichte $f(\theta \mid \tau)$
+    \item Korrespondierende Dichte $f(\theta \mid \tau)$
     \item Tr"agermenge $[ \b{\theta} , \bar{\theta} ]$ mit $0 \leq \b{\theta} < \bar{\theta} $ f"ur alle $\tau \in [ \b{\tau} , \bar{\tau} ]$
-\end{itemize}
+  \end{itemize}
 \end{frame}
 
 \begin{frame}
-\frametitle{Annahmen}
-\justifying
-Wir setzen im Folgenden voraus, dass
-\begin{itemize}
-    \item $F(\theta \mid \tau)$ und $f(\theta \mid \tau)$ stetig differenzierbar in $\tau$ sind
+  \frametitle{Annahmen}
+  \justifying
+  Wir setzen im Folgenden voraus, dass
+  \begin{itemize}
+    \item Tr"agermenge von $F(\theta \mid \tau)$ ist $[ \b{\theta} , \bar{\theta} ]$ f"ur alle
+    $\tau \in [ \b{\tau} , \bar{\tau} ], 0 \leq \b{\theta} < \bar{\theta}$
+    \item Tr"agermenge von $F(\theta \mid \tau)$ unabh"angig von $\tau$
+    \item $f(\theta \mid \tau) > 0$ f"ur alle $\tau \in [ \b{\tau} , \bar{\tau} ]$
+    und $\theta \in [ \b{\theta} , \bar{\theta} ]$
+    \item $F(\theta \mid \tau)$ und $f(\theta \mid \tau)$ sind stetig differenzierbar in $\tau$
     \item F"ur die Familie $F( \cdot \mid \tau)$ mit $\tau \in [ \b{\tau} , \bar{\tau} ]$ gilt
     \begin{equation}
       \tag{FOSD}
       \delta F(\theta \mid \tau)/ \delta \tau < 0 \ f"ur \ alle \ \theta \in [ \b{\theta} , \bar{\theta} ]
     \end{equation}
   \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Dynamischer direkter Mechanismus}
+  \justifying
+  \begin{thmD}
+    Ein \textcolor{blue}{dynamischer direkter Mechanismus} besteht aus den beiden Funktionen
+    \begin{equation*}
+      q:[ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] \rightarrow [0,1]
+      \quad \text{und} \quad
+      t:[ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ] \rightarrow \mathbb{R}.
+    \end{equation*}
+  \end{thmD}
+  Zwei wesentliche Haupt"anderungen:
+  \begin{enumerate}
+    \item Verwende nun das kartesische Produkt $[ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ]$
+    \item ?
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Ein-Personen-Entscheidungsproblem}
+  \justifying
+  Optimale Entscheidung ist das Paar $\sigma = (\sigma_{1}, \sigma_{2})$ mit
+  \begin{itemize}
+    \item $\sigma_{1}: [ \b{\tau} , \bar{\tau} ] \rightarrow [ \b{\tau} , \bar{\tau} ]$ (Report ex ante Typ $\tau$)
+    \item $\sigma_{2}: [ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ]
+    \times [ \b{\tau} , \bar{\tau} ]  \rightarrow [ \b{\theta} , \bar{\theta} ]$ (Report ex post Typ $\theta$)
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{?}
+  \begin{thmP}
+    F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
+    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma =(\sigma_{1}', \sigma_{2}')$
+    so dass gilt: \newline \newline
+    i) Die Strategie $\sigma$ gen"ugt
+    \begin{equation*}
+      \sigma_{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\tau} ]
+      \quad \text{und} \quad
+      \sigma_{2}' (\tau, \theta, \tau) = \theta \ \forall  \theta \in [\b{\theta} , \bar{\theta} ], \tau \in [\b{\tau} , \bar{\tau} ]
+    \end{equation*}
+    ii) Wenn der K"aufer seine optimale Strategie spielt, dann ist f"ur alle
+    $(\tau, \theta) \in [\b{\theta} , \bar{\theta} ] \times [\b{\tau} , \bar{\tau} ]$ die
+    Wahrscheinlichkeit $q( \tau, \theta)$ und die Auszahlung $t(\tau, \theta)$ unter $\Gamma'$ identisch mit der
+    Wahrscheinlichkeit eines Kaufes und der erwarteten Auszahlung unter $\Gamma$.
+  \end{thmP}
 \end{frame}
