@@ -26,13 +26,13 @@
   \begin{itemize}
     \item Kommulierte Verteilung $G(\tau)$
     \item Positive Dichte $g(\tau)$
-    \item Tr"agermenge $[ \b{\tau} , \bar{\tau} ]$
+    \item Tr"agermenge $[ \text{\b{\tau}} , \bar{\tau} ]$
   \end{itemize}
   Sei im Folgenden f"ur die Bewertung $\theta$
   \begin{itemize}
     \item Kommulierte Verteilung $F(\theta \mid \tau)$
     \item Korrespondierende Dichte $f(\theta \mid \tau)$
-    \item Tr"agermenge $[ \b{\theta} , \bar{\theta} ]$ mit $0 \leq \b{\theta} < \bar{\theta} $ f"ur alle $\tau \in [ \b{\tau} , \bar{\tau} ]$
+    \item Tr"agermenge $[ \text{\b{\theta}} , \bar{\theta} ]$ mit $0 \leq \text{\b{\theta}} < \bar{\theta} $ f"ur alle $\tau \in [ \text{\b{\tau}} , \bar{\tau} ]$
   \end{itemize}
 \end{frame}
 
@@ -92,7 +92,7 @@
   \justifying
   \begin{thmP}[Nur Beweisidee und Interpretation]
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
-    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma =(\sigma_{1}', \sigma_{2}')$
+    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$
     so dass gilt: \newline \newline
     i) Die Strategie $\sigma$ gen"ugt
     \begin{equation*}
@@ -112,14 +112,14 @@
   \justifying
   Betrachte direkte Mechanismen:
   \begin{enumerate}
-    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage für $\tau$ m"oglich?)
+    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage f"ur $\tau$ m"oglich?)
     \item Kein Gleichgewicht: Keine Aussage m"oglich
   \end{enumerate}
   $\Rightarrow$ Definiere \textcolor{blue}{Anreiz-kompatibel} und \textcolor{blue}{individuell rational}: \\
   \begin{align*}
     \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] &\text{Berichtsfunktion} \\
     u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) &\text{Nutzenfunktion} \\
-    U( \tau') := \hat{U}( \tau', \tau) &= \int_{\b{\theta}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
+    U( \tau') := \hat{U}( \tau' \mid \tau) &= \int_{\text{\b{\theta}}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
   \end{align*}
 \end{frame}
 
@@ -135,7 +135,7 @@
     \end{equation*}
     ii) er Anreiz-kompatibel gegeben seinem Ex-Ante Typen $\tau$ ist:
     \begin{align*}
-      &U(\tau) \ge \int_{\b{\theta}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
+      &U(\tau) \ge \int_{\text{\b{\theta}}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
       &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
     \end{align*}
     Ein direkter Mechanismus ist \textcolor{blue}{individuel rational}, wenn
@@ -176,7 +176,7 @@
     \end{equation*}
     iii) F"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
     \begin{equation*}
-      t(\tau, \theta) = t(\tau, \b{\theta}) + (\theta q(\tau, \theta) - \b{\theta} q(\tau, \b{\theta})) - \int_{\b{\theta}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta}.
+      t(\tau, \theta) = t(\tau, \b{\theta}) + (\theta q(\tau, \theta) - \b{\theta} q(\tau, \b{\theta})) - \int_{\text{\b{\theta}}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta}.
     \end{equation*}
   \end{thmP}
 \end{frame}
@@ -187,11 +187,11 @@
   \begin{thmP}[Beweis an der Tafel]
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle Ex-Ante Typen $\tau$:
     \begin{align*}
-      i)& \ U'(tau) = - \int_{\b{\theta}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
-      ii)& \ \int_{\b{\theta}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{theta} \mid \tau) \ d \hat{\theta} = \int_{\b{\theta}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
+      i)& \ U'(\tau) = - \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
+      ii)& \ \int_{\text{\b{\theta}}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{\theta} \mid \tau) \ d \hat{\theta} = \int_{\text{\b{\theta}}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
       f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
-      &+ \int_{\b{\theta}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{theta} \mid \b{\tau}) \ d \hat{\theta} \\
-      &+ \int_{\b{\tau}}^{\tau} \int_{\b{\theta}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau}.
+      &+ \int_{\text{\b{\theta}}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{\theta} \mid \b{\tau}) \ d \hat{\theta} \\
+      &+ \int_{\b{\tau}}^{\tau} \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau}.
     \end{align*}
   \end{thmP}
 \end{frame}
@@ -214,13 +214,13 @@
   \begin{thmP}[Beweis an der Tafel]
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt
     \begin{equation*}
-      t(\tau, \theta) = t_{0}(\tau) + \theta q(\tau, \theta) - \int_{\b{\theta}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta},
+      t(\tau, \theta) = t_{0}(\tau) + \theta q(\tau, \theta) - \int_{\text{\b{\theta}}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta},
     \end{equation*}
     mit
     \begin{align*}
       t_{0}(\tau) = t(\b{\tau},\b{\theta}) - \b{\theta} q(\b{\tau}, \b{\theta})
-      + \int_{\b{\tau}}^{\tau} \int_{\b{\theta}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau} \\
-      + \int_{\b{\theta}}^{\bar{\theta}} \int_{\b{\theta}}^{\hat{\theta}} [q(\tau, x) f(\hat{\theta} \mid \tau) - q(\b{\tau}, x) f(\hat{\theta} \mid \b{\tau})] \ d x \ d \hat{\theta}.
+      + \int_{\b{\tau}}^{\tau} \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau} \\
+      + \int_{\text{\b{\theta}}}^{\bar{\theta}} \int_{\text{\b{\theta}}}^{\hat{\theta}} [q(\tau, x) f(\hat{\theta} \mid \tau) - q(\b{\tau}, x) f(\hat{\theta} \mid \b{\tau})] \ d x \ d \hat{\theta}.
     \end{align*}
   \end{thmP}
 \end{frame}
@@ -254,9 +254,9 @@
   \begin{thmL}[An der Tafel - 4 Zeiler]
     Die erwartete Auszahlung f"ur den Verk"aufer ergibt sich zu
     \begin{align*}
-      &\int_{\b{\tau}}^{\bar{\tau}} \int_{\b{\theta}}^{\bar{\theta}} [\hat{\theta} q(\hat{\tau}, \hat{\theta}) - u(\hat{\tau}, \hat{\theta})]
+      &\int_{\b{\tau}}^{\bar{\tau}} \int_{\text{\b{\theta}}}^{\bar{\theta}} [\hat{\theta} q(\hat{\tau}, \hat{\theta}) - u(\hat{\tau}, \hat{\theta})]
       f(\hat{\theta} \mid \hat{\tau} ) g(\hat{\tau}) \ d \hat{\theta} \ d \hat{\tau} \\
-      &= \int_{\b{\tau}}^{\bar{\tau}} \int_{\b{\theta}}^{\bar{\theta}} \psi(\hat{\tau}, \hat{\theta}) q(\hat{\tau}, \hat{\theta})
+      &= \int_{\b{\tau}}^{\bar{\tau}} \int_{\text{\b{\theta}}}^{\bar{\theta}} \psi(\hat{\tau}, \hat{\theta}) q(\hat{\tau}, \hat{\theta})
       f(\hat{\theta} \mid \hat{\tau}) g(\hat{\tau}) \ d \hat{\theta} \ d \hat{\tau} - U(\b{\tau}),
     \end{align*}
     mit
@@ -309,7 +309,7 @@
     \end{equation*}
     mit $t_{0}$ wie in Proposition vorher. Ferner gilt
     \begin{equation*}
-      t(b{\tau}, b{\theta}) = \hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
+      t(\b{\tau}, \b{\theta}) = \hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
     \end{equation*}
   \end{thmS}
 \end{frame}
