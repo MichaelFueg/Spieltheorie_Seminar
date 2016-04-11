@@ -92,16 +92,16 @@
   \justifying
   \begin{thmP}[Nur Beweisidee und Interpretation]
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
-    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma =(\sigma_{1}', \sigma_{2}')$
-    so dass gilt: \newline \newline
-    i) Die Strategie $\sigma$ gen"ugt
+    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$
+    ,so dass gilt: \newline \newline
+    i) Die Strategie $\sigma'$ gen"ugt
     \begin{equation*}
       \sigma_{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\tau} ]
       \quad \text{und} \quad
       \sigma_{2}' (\tau, \theta, \tau) = \theta \ \forall  \theta \in [\b{\theta} , \bar{\theta} ], \tau \in [\b{\tau} , \bar{\tau} ]
     \end{equation*}
     ii) Wenn der K"aufer seine optimale Strategie spielt, dann ist f"ur alle
-    $(\tau, \theta) \in [\b{\theta} , \bar{\theta} ] \times [\b{\tau} , \bar{\tau} ]$ die
+    $(\tau, \theta) \in [\b{\tau} , \bar{\tau} ] \times [\b{\theta} , \bar{\theta} ] $ die
     Wahrscheinlichkeit $q( \tau, \theta)$ und die Auszahlung $t(\tau, \theta)$ unter $\Gamma'$ identisch mit der
     Wahrscheinlichkeit eines Kaufes und der erwarteten Auszahlung unter $\Gamma$.
   \end{thmP}
@@ -112,14 +112,15 @@
   \justifying
   Betrachte direkte Mechanismen:
   \begin{enumerate}
-    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage für $\tau$ m"oglich?)
+    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage f\"ur $\tau$ m"oglich?)
     \item Kein Gleichgewicht: Keine Aussage m"oglich
   \end{enumerate}
   $\Rightarrow$ Definiere \textcolor{blue}{Anreiz-kompatibel} und \textcolor{blue}{individuell rational}: \\
   \begin{align*}
     \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] &\text{Berichtsfunktion} \\
     u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) &\text{Nutzenfunktion} \\
-    U( \tau') := \hat{U}( \tau', \tau) &= \int_{\b{\theta}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
+    \hat{U}( \tau' | \tau) &= \int_{\b{\theta}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
+    U(\tau) &= \hat{U}( \tau | \tau)
   \end{align*}
 \end{frame}
 
@@ -136,7 +137,7 @@
     ii) er Anreiz-kompatibel gegeben seinem Ex-Ante Typen $\tau$ ist:
     \begin{align*}
       &U(\tau) \ge \int_{\b{\theta}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
-      &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
+      &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und alle} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
     \end{align*}
     Ein direkter Mechanismus ist \textcolor{blue}{individuel rational}, wenn
     \begin{equation*}
@@ -156,11 +157,11 @@
       &ii) \quad U(\tau) \ge \hat{U}(\tau' \mit \tau) \quad \forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ].
     \end{align*}
   \end{thmP}
-  Betrachte jetzt Monotonie-Kriterien $\rightarrow$ Allgemein gilt nicht:
+  Betrachte jetzt Monotonie-Kriterien $\rightarrow$ gelten im Allgemeinen nicht:
   \begin{enumerate}
     \item Anreiz-Kompatibilit"at des Ex-Ante Typen $\tau$ impliziert nicht Monotonie der Allokationsregel. \\
-    $\Rightarrow$ Wesentlicher Unterschied zu statischen Screening Model.
-    \item Betrachte Anreiz-Kompatibilit"at des Ex-Post Typen $\theta$.
+    $\Rightarrow$ Wesentlicher Unterschied zu statischem Screening Model.
+    \item Betrachte Anreiz-Kompatibilit"at gegeben des Ex-Post Typen $\theta$.
   \end{enumerate}
 \end{frame}
 
@@ -187,10 +188,10 @@
   \begin{thmP}[Beweis an der Tafel]
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle Ex-Ante Typen $\tau$:
     \begin{align*}
-      i)& \ U'(tau) = - \int_{\b{\theta}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
-      ii)& \ \int_{\b{\theta}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{theta} \mid \tau) \ d \hat{\theta} = \int_{\b{\theta}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
+      i)& \ U'(\tau) = - \int_{\b{\theta}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
+      ii)& \ \int_{\b{\theta}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{\theta} \mid \tau) \ d \hat{\theta} = \int_{\b{\theta}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
       f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
-      &+ \int_{\b{\theta}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{theta} \mid \b{\tau}) \ d \hat{\theta} \\
+      &+ \int_{\b{\theta}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{\theta} \mid \b{\tau}) \ d \hat{\theta} \\
       &+ \int_{\b{\tau}}^{\tau} \int_{\b{\theta}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau}.
     \end{align*}
   \end{thmP}
@@ -201,7 +202,7 @@
   \justifying
   Wir haben festgestellt:
   \begin{enumerate}
-    \item Vorigen Propositionen implizieren zwei Restriktionen an $t(\tau, \theta)$.
+    \item Vorige Propositionen implizieren zwei Restriktionen an $t(\tau, \theta)$.
     \item F"uhren diese Restriktionen zu Widerspr"uchen?
     \item Nein! N"achste Proposition impliziert: Gegeben $q(\tau, \theta)$, dann wird $t(\tau, \theta)$ festgelegt
     durch $t(\b{\tau}, \b{\theta}$).
@@ -240,7 +241,7 @@
   \frametitle{Individuel-rational und Anreiz-kompatibel}
   \justifying
   \begin{thmP}[Nur m"undlicher Beweis]
-    Ein Anreiz-kompatibler direkter Mechanismus ist individuel-rationaler genau dann, wenn
+    Ein Anreiz-kompatibler direkter Mechanismus ist individuel-rationale genau dann, wenn
     \begin{equation*}
       U(\b{\tau}) \ge 0.
     \end{equation*}
@@ -252,7 +253,7 @@
   \frametitle{Die erwartete Auszahlung}
   \justifying
   \begin{thmL}[An der Tafel - 4 Zeiler]
-    Die erwartete Auszahlung f"ur den Verk"aufer ergibt sich zu
+    Die erwartete Auszahlung f"ur den Verk"aufer ergibt sich als
     \begin{align*}
       &\int_{\b{\tau}}^{\bar{\tau}} \int_{\b{\theta}}^{\bar{\theta}} [\hat{\theta} q(\hat{\tau}, \hat{\theta}) - u(\hat{\tau}, \hat{\theta})]
       f(\hat{\theta} \mid \hat{\tau} ) g(\hat{\tau}) \ d \hat{\theta} \ d \hat{\tau} \\
@@ -281,10 +282,10 @@
       \item Erwartete Auszahlung linear in $q(\tau, \theta)$
       $\Rightarrow q(\tau, \theta) = \left\{\begin{array}{lr}
         1, & \text{falls } \psi(\tau, \theta) \ge 0 \\
-        0, & \text{sonst } 0
+        0, & \text{sonst }
         \end{array} = \left\{\begin{array}{lr}
           1, & \text{falls } \theta \ge p(\tau) \\
-          0, & \text{sonst } 0
+          0, & \text{sonst }
           \end{array}$
     \end{enumerate}
 \end{frame}
@@ -297,19 +298,19 @@
     \begin{equation*}
       q(\tau, \theta) = \left\{\begin{array}{lr}
         1, & \text{falls } \theta \ge p(\tau) \\
-        0, & \text{sonst } 0
+        0, & \text{sonst }
         \end{array}
     \end{equation*}
     und
     \begin{equation*}
       t(\tau, \theta) = \left\{\begin{array}{lr}
         t_{0}(\tau) p(\tau), & \text{falls } \theta \ge p(\tau) \\
-        t_{0}, & \text{sonst } 0,
+        t_{0}, & \text{sonst },
         \end{array}
     \end{equation*}
     mit $t_{0}$ wie in Proposition vorher. Ferner gilt
     \begin{equation*}
-      t(b{\tau}, b{\theta}) = \hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
+      t(\b{\tau}, \b{\theta}) = \int_{p(\tau)}^{\theta}\hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
     \end{equation*}
   \end{thmS}
 \end{frame}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.10)  11 APR 2016 10:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.10)  11 APR 2016 11:37
 entering extended mode
 **Template.tex
 (C:\Users\Philip\Documents\GitHub\Spieltheorie_Seminar\Template.tex
@@ -1720,12 +1720,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 124.
+LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1733,37 +1733,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 124.
+LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.124 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 124.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1771,37 +1752,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 124.
+LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.124 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 124.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1809,18 +1771,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 124.
+LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1828,7 +1790,45 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.124 \end{frame}
+l.125 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 125.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.125 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.125 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 125.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.125 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.125 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1837,12 +1837,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1850,37 +1850,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 147.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1888,37 +1869,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 147.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1926,37 +1888,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 147.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1964,37 +1907,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 147.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2002,37 +1926,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 147.
+LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 147.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2040,25 +1945,120 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.147 \end{frame}
+l.148 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \vbox (7.44838pt too high) detected at line 147
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \vbox (7.44838pt too high) detected at line 148
  []
 
 [11
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 165.
+LaTeX Warning: Command \b invalid in math mode on input line 166.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2066,37 +2066,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 165.
+LaTeX Warning: Command \b invalid in math mode on input line 166.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.165 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 165.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2104,37 +2085,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 165.
+LaTeX Warning: Command \b invalid in math mode on input line 166.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.165 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 165.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2142,18 +2104,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 165.
+LaTeX Warning: Command \b invalid in math mode on input line 166.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2161,7 +2123,45 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 \end{frame}
+l.166 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 166.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 166.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2170,12 +2170,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 182.
+LaTeX Warning: Command \b invalid in math mode on input line 183.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2183,37 +2183,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 182.
+LaTeX Warning: Command \b invalid in math mode on input line 183.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.182 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 182.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.182 \end{frame}
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2221,18 +2202,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 182.
+LaTeX Warning: Command \b invalid in math mode on input line 183.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2240,7 +2221,26 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 \end{frame}
+l.183 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 183.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.183 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.183 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2249,12 +2249,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2262,37 +2262,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2300,37 +2281,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2338,37 +2300,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2376,37 +2319,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2414,37 +2338,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2452,37 +2357,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2490,37 +2376,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2528,37 +2395,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 197.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2566,18 +2414,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 197.
+LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2585,7 +2433,159 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 \end{frame}
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2594,12 +2594,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 209.
+LaTeX Warning: Command \b invalid in math mode on input line 210.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.209 \end{frame}
+l.210 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2607,18 +2607,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.209 \end{frame}
+l.210 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 209.
+LaTeX Warning: Command \b invalid in math mode on input line 210.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.209 \end{frame}
+l.210 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2626,7 +2626,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.209 \end{frame}
+l.210 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2635,12 +2635,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2648,37 +2648,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2686,37 +2667,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2724,37 +2686,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2762,37 +2705,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2800,37 +2724,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2838,37 +2743,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2876,37 +2762,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2914,37 +2781,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2952,37 +2800,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2990,37 +2819,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3028,37 +2838,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 226.
+LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 226.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.226 \end{frame}
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3066,7 +2857,216 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.226 \end{frame}
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3074,7 +3074,7 @@ you left one out. Proceed, with fingers crossed.
 [16
 
 ]
-Overfull \hbox (1.26102pt too wide) in paragraph at lines 237--237
+Overfull \hbox (1.26102pt too wide) in paragraph at lines 238--238
 []\T1/lmss/m/n/10.95 Anfangsproblem: Monotonie-Kriterium ver-sagt im dy-na-mi-s
 chen Kon-
  []
@@ -3083,12 +3083,12 @@ chen Kon-
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 248.
+LaTeX Warning: Command \b invalid in math mode on input line 249.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.248 \end{frame}
+l.249 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3096,7 +3096,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.248 \end{frame}
+l.249 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3105,12 +3105,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3118,37 +3118,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 267.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3156,37 +3137,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 267.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3194,37 +3156,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 267.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3232,37 +3175,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 267.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3270,18 +3194,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 267.
+LaTeX Warning: Command \b invalid in math mode on input line 268.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3289,7 +3213,83 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.267 \end{frame}
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3298,12 +3298,12 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 290.
+LaTeX Warning: Command \b invalid in math mode on input line 291.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3311,18 +3311,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 290.
+LaTeX Warning: Command \b invalid in math mode on input line 291.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3330,7 +3330,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3338,7 +3338,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3349,7 +3349,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.290 \end{frame}
+l.291 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3363,7 +3363,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3374,7 +3374,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3383,12 +3383,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 315.
+LaTeX Warning: Command \b invalid in math mode on input line 316.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3396,37 +3396,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 315.
+LaTeX Warning: Command \b invalid in math mode on input line 316.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 315.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3434,37 +3415,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 315.
+LaTeX Warning: Command \b invalid in math mode on input line 316.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 315.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3472,37 +3434,18 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 315.
+LaTeX Warning: Command \b invalid in math mode on input line 316.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 315.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.315 \end{frame}
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3510,7 +3453,102 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.315 \end{frame}
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 316.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 316.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 316.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 316.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 316.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.316 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3568,7 +3606,7 @@ pe1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 sso8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Template.pdf (24 pages, 338645 bytes).
+Output written on Template.pdf (24 pages, 342078 bytes).
 PDF statistics:
  935 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)
