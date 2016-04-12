@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.10)  11 APR 2016 11:37
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.7)  7 APR 2016 18:14
+>>>>>>> origin/master
 entering extended mode
 **Template.tex
 (C:\Users\Philip\Documents\GitHub\Spieltheorie_Seminar\Template.tex
@@ -1172,10 +1176,143 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
 
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-LaTeX Warning: Command \b invalid in math mode on input line 37.
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
 <inserted text> 
                 $
 l.37 \end{frame}
@@ -1191,10 +1328,23 @@ l.37 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: Command \b invalid in math mode on input line 37.
-
 ! Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
 <inserted text> 
                 $
 l.37 \end{frame}
@@ -1210,10 +1360,23 @@ l.37 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: Command \b invalid in math mode on input line 37.
-
 ! Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
 <inserted text> 
                 $
 l.37 \end{frame}
@@ -1229,8 +1392,29 @@ l.37 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-LaTeX Warning: Command \b invalid in math mode on input line 37.
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 ! Missing $ inserted.
 <inserted text> 
@@ -1757,10 +1941,14 @@ l.125 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.125 \end{frame}
@@ -1776,10 +1964,14 @@ l.125 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.125 \end{frame}
@@ -1795,10 +1987,14 @@ l.125 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.125 \end{frame}
@@ -1814,10 +2010,14 @@ l.125 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 125.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.125 \end{frame}
@@ -1829,6 +2029,208 @@ you left one out. Proceed, with fingers crossed.
 <inserted text> 
                 $
 l.125 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 124.
+
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 124.
+
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 148.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1874,10 +2276,14 @@ l.148 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.148 \end{frame}
@@ -1893,10 +2299,14 @@ l.148 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.148 \end{frame}
@@ -1912,10 +2322,14 @@ l.148 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 148.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.148 \end{frame}
@@ -1931,120 +2345,7 @@ l.148 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 148.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.148 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
+<<<<<<< HEAD
 
 Overfull \vbox (7.44838pt too high) detected at line 148
  []
@@ -2059,18 +2360,137 @@ LaTeX Warning: Command \b invalid in math mode on input line 166.
 <inserted text> 
                 $
 l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 166.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.166 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 166.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 166.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 166.
 
@@ -2078,18 +2498,32 @@ LaTeX Warning: Command \b invalid in math mode on input line 166.
 <inserted text> 
                 $
 l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 166.
 
@@ -2097,75 +2531,32 @@ LaTeX Warning: Command \b invalid in math mode on input line 166.
 <inserted text> 
                 $
 l.166 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 166.
-
-! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
 <inserted text> 
                 $
-l.166 \end{frame}
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 166.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 166.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.166 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
+<<<<<<< HEAD
 [12
 
 ]
@@ -2176,18 +2567,32 @@ LaTeX Warning: Command \b invalid in math mode on input line 183.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 183.
 
@@ -2195,215 +2600,570 @@ LaTeX Warning: Command \b invalid in math mode on input line 183.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 183.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 183.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.183 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[13
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 147.
+
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 198.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+Overfull \vbox (6.85832pt too high) detected at line 147
+ []
+
+[11
 
 ]
 
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 165.
+
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+[12
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+]
+
+LaTeX Warning: Command \b invalid in math mode on input line 182.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 182.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 182.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.198 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:182: Missing $ inserted.
+<inserted text> 
+                $
+l.182 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
 
 ! Missing $ inserted.
+=======
+[13
+
+]
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.198 \end{frame}
@@ -2419,8 +3179,25 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2438,8 +3215,25 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2457,8 +3251,25 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2476,8 +3287,33 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2495,8 +3331,25 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2514,8 +3367,25 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 198.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -2533,59 +3403,613 @@ l.198 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: Command \b invalid in math mode on input line 198.
-
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.197 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 210.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.210 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.210 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 198.
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 210.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.210 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.210 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 198.
+LaTeX Warning: Command \b invalid in math mode on input line 197.
 
-! Missing $ inserted.
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+=======
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.197 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.198 \end{frame}
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 197.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2594,39 +4018,39 @@ you left one out. Proceed, with fingers crossed.
 
 ]
 
-LaTeX Warning: Command \b invalid in math mode on input line 210.
+LaTeX Warning: Command \b invalid in math mode on input line 209.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:209: Missing $ inserted.
 <inserted text> 
                 $
-l.210 \end{frame}
+l.209 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:209: Missing $ inserted.
 <inserted text> 
                 $
-l.210 \end{frame}
+l.209 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \b invalid in math mode on input line 210.
+LaTeX Warning: Command \b invalid in math mode on input line 209.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:209: Missing $ inserted.
 <inserted text> 
                 $
-l.210 \end{frame}
+l.209 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
+./Kapitel/Zweites_Kapitel.tex:209: Missing $ inserted.
 <inserted text> 
                 $
-l.210 \end{frame}
+l.209 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2634,10 +4058,569 @@ you left one out. Proceed, with fingers crossed.
 [15
 
 ]
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 226.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2653,10 +4636,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2672,10 +4659,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2691,10 +4682,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2710,10 +4705,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2729,10 +4728,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2748,10 +4751,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2767,10 +4774,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2786,10 +4797,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -2805,219 +4820,14 @@ l.227 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 
 LaTeX Warning: Command \b invalid in math mode on input line 227.
 
 ! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.227 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 227.
-
-! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:226: Missing $ inserted.
+>>>>>>> origin/master
 <inserted text> 
                 $
 l.227 \end{frame}
@@ -3073,6 +4883,356 @@ you left one out. Proceed, with fingers crossed.
 
 [16
 
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+]
+Overfull \hbox (1.26102pt too wide) in paragraph at lines 237--237
+[]\T1/lmss/m/n/10.95 Anfangsproblem: Monotonie-Kriterium ver-sagt im dy-na-mi-schen Kon-
+ []
+
+[17
+
+]
+
+LaTeX Warning: Command \b invalid in math mode on input line 248.
+
+./Kapitel/Zweites_Kapitel.tex:248: Missing $ inserted.
+<inserted text> 
+                $
+l.248 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:248: Missing $ inserted.
+<inserted text> 
+                $
+l.248 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[18
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+]
+
+LaTeX Warning: Command \b invalid in math mode on input line 267.
+
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+<<<<<<< HEAD
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+LaTeX Warning: Command \b invalid in math mode on input line 267.
+
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 227.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+! Missing $ inserted.
+<inserted text> 
+                $
+l.227 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+[16
+
 ]
 Overfull \hbox (1.26102pt too wide) in paragraph at lines 238--238
 []\T1/lmss/m/n/10.95 Anfangsproblem: Monotonie-Kriterium ver-sagt im dy-na-mi-s
@@ -3089,74 +5249,27 @@ LaTeX Warning: Command \b invalid in math mode on input line 249.
 <inserted text> 
                 $
 l.249 \end{frame}
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 ! Missing $ inserted.
 <inserted text> 
                 $
 l.249 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[18
-
-]
-
-LaTeX Warning: Command \b invalid in math mode on input line 268.
-
-! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
 <inserted text> 
                 $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 268.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 268.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
+l.267 \end{frame}
+>>>>>>> origin/master
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3199,6 +5312,98 @@ l.268 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+>>>>>>> origin/master
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+>>>>>>> origin/master
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+>>>>>>> origin/master
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<<<<<<< HEAD
+
+LaTeX Warning: Command \b invalid in math mode on input line 268.
+
+! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+>>>>>>> origin/master
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.268 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 
 LaTeX Warning: Command \b invalid in math mode on input line 268.
 
@@ -3218,8 +5423,25 @@ l.268 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 268.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -3237,27 +5459,25 @@ l.268 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
+<inserted text> 
+                $
+l.267 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+<<<<<<< HEAD
 LaTeX Warning: Command \b invalid in math mode on input line 268.
-
-! Missing $ inserted.
+=======
+./Kapitel/Zweites_Kapitel.tex:267: Missing $ inserted.
 <inserted text> 
                 $
-l.268 \end{frame}
+l.267 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.268 \end{frame}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \b invalid in math mode on input line 268.
+>>>>>>> origin/master
 
 ! Missing $ inserted.
 <inserted text> 
@@ -3553,6 +5773,44 @@ l.316 \end{frame}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+LaTeX Warning: Command \b invalid in math mode on input line 315.
+
+./Kapitel/Zweites_Kapitel.tex:315: Missing $ inserted.
+<inserted text> 
+                $
+l.315 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:315: Missing $ inserted.
+<inserted text> 
+                $
+l.315 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \b invalid in math mode on input line 315.
+
+./Kapitel/Zweites_Kapitel.tex:315: Missing $ inserted.
+<inserted text> 
+                $
+l.315 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Kapitel/Zweites_Kapitel.tex:315: Missing $ inserted.
+<inserted text> 
+                $
+l.315 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 [21
 
 ])
@@ -3586,6 +5844,7 @@ Package rerunfilecheck Info: File `Template.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  20707 strings out of 493921
  407714 string characters out of 3147279
  471980 words of memory out of 3000000
@@ -3607,6 +5866,18 @@ sso8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on Template.pdf (24 pages, 342078 bytes).
+=======
+ 20951 strings out of 493089
+ 412167 string characters out of 6134842
+ 488511 words of memory out of 5000000
+ 23829 multiletter control sequences out of 15000+600000
+ 67001 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,23n,65p,405b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Template.pdf (24 pages, 200575 bytes).
+>>>>>>> origin/master
 PDF statistics:
  935 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)
