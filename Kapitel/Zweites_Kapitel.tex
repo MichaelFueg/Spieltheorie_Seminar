@@ -1,4 +1,5 @@
 \section{Dynamische private Information}
+
 \begin{frame}
   \frametitle{Modellrahmen}
   \justifying
@@ -14,7 +15,7 @@
       \item Bewertung des Gutes $\theta$ zun"achst unbekannt
       \item Erh"alt Signal $\tau$, welches mit $\theta$ korreliert ist
       \item Wenn er den Mechanismus aktzeptiert, berichtet er $\tau$
-      \item $\theta$ erf\"ahrt er erst nach Aktzeptieren des Mechanismus $\Gamma$ und berichtet sie danach
+      \item $\theta$ erf"ahrt er erst nach Aktzeptieren des Mechanismus $\Gamma$ und berichtet sie danach
     \end{itemize}
   \end{itemize}
 \end{frame}
@@ -77,7 +78,6 @@
 \begin{frame}
   \frametitle{Ein-Personen-Entscheidungsproblem}
   \justifying
-  \justifying
   Optimale Entscheidung ist das Paar $\sigma = (\sigma_{1}, \sigma_{2})$ mit
   \begin{itemize}
     \item $\sigma_{1}: [ \b{\tau} , \bar{\tau} ] \rightarrow [ \b{\tau} , \bar{\tau} ]$ (Report ex ante Typ $\tau$)
@@ -92,14 +92,8 @@
   \justifying
   \begin{thmP}[Nur Beweisidee und Interpretation]
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
-    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$
-<<<<<<< HEAD
-    ,so dass gilt: \newline \newline
-    i) Die Strategie $\sigma'$ gen"ugt
-=======
-    so dass gilt: \newline \newline
+    einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$, so dass gilt: \newline \newline
     i) Die Strategie $\sigma$ gen"ugt
->>>>>>> origin/master
     \begin{equation*}
       \sigma_{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\tau} ]
       \quad \text{und} \quad
@@ -117,23 +111,15 @@
   \justifying
   Betrachte direkte Mechanismen:
   \begin{enumerate}
-<<<<<<< HEAD
-    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage f\"ur $\tau$ m"oglich?)
-=======
     \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage f"ur $\tau$ m"oglich?)
->>>>>>> origin/master
     \item Kein Gleichgewicht: Keine Aussage m"oglich
   \end{enumerate}
   $\Rightarrow$ Definiere \textcolor{blue}{Anreiz-kompatibel} und \textcolor{blue}{individuell rational}: \\
   \begin{align*}
-    \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] &\text{Berichtsfunktion} \\
-    u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) &\text{Nutzenfunktion} \\
-<<<<<<< HEAD
-    \hat{U}( \tau' | \tau) &= \int_{\b{\theta}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
+    \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] \\
+    u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) \\
+    \hat{U}( \tau' | \tau) &= \int_{\text{\b{\theta}}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
     U(\tau) &= \hat{U}( \tau | \tau)
-=======
-    U( \tau') := \hat{U}( \tau' \mid \tau) &= \int_{\text{\b{\theta}}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} & \text{Interpretation?}\\
->>>>>>> origin/master
   \end{align*}
 \end{frame}
 
@@ -149,20 +135,14 @@
     \end{equation*}
     ii) er Anreiz-kompatibel gegeben seinem Ex-Ante Typen $\tau$ ist:
     \begin{align*}
-<<<<<<< HEAD
-      &U(\tau) \ge \int_{\b{\theta}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
-      &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und alle} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
-=======
       &U(\tau) \ge \int_{\text{\b{\theta}}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
       &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
->>>>>>> origin/master
     \end{align*}
     Ein direkter Mechanismus ist \textcolor{blue}{individuel rational}, wenn
     \begin{equation*}
       U(\tau) \ge 0 \ \ \forall \tau \in [ \b{\tau} , \bar{\tau} ]
     \end{equation*}
   \end{thmD}
-
 \end{frame}
 
 \begin{frame}
@@ -201,24 +181,29 @@
 \end{frame}
 
 \begin{frame}
+  \frametitle{Beispiel f"ur Anreiz-Kompatibilit"at}
+  \justifying
+  Wir definieren zun"achst $[\b{\theta}, \bar{\theta}] = [0, \bar{\theta}]$ und $[\b{\tau}, \bar{\tau}] = [0, \bar{\tau}]$.
+  \begin{thmL}
+    Der direkte Mechanismus charakterisiert durch
+    \begin{equation*}
+      q(\tau, \theta) := 1- e^{-(\tau + \theta)} \text{ und } t(\tau, \theta) := - e^{-(\tau + \theta)} \cdot (1 + \theta)
+    \end{equation*}
+    ist Anreiz-kompatibel.
+  \end{thmL}
+\end{frame}
+
+\begin{frame}
   \frametitle{Implikationen aus Anreiz-Kompatibilit"at I}
   \justifying
   \begin{thmP}[Beweis an der Tafel]
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle Ex-Ante Typen $\tau$:
     \begin{align*}
-<<<<<<< HEAD
-      i)& \ U'(\tau) = - \int_{\b{\theta}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
-      ii)& \ \int_{\b{\theta}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{\theta} \mid \tau) \ d \hat{\theta} = \int_{\b{\theta}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
-      f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
-      &+ \int_{\b{\theta}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{\theta} \mid \b{\tau}) \ d \hat{\theta} \\
-      &+ \int_{\b{\tau}}^{\tau} \int_{\b{\theta}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau}.
-=======
       i)& \ U'(\tau) = - \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
       ii)& \ \int_{\text{\b{\theta}}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{\theta} \mid \tau) \ d \hat{\theta} = \int_{\text{\b{\theta}}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
       f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
       &+ \int_{\text{\b{\theta}}}^{\bar{\theta}} [t(\b{\tau}, \hat{\theta}) - \hat{\theta} q(\b{\tau}, \hat{\theta})] f( \hat{\theta} \mid \b{\tau}) \ d \hat{\theta} \\
       &+ \int_{\b{\tau}}^{\tau} \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\hat{\tau}, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \hat{\tau})}{\delta \tau} \ d \hat{\theta} \ d \hat{\tau}.
->>>>>>> origin/master
     \end{align*}
   \end{thmP}
 \end{frame}
@@ -267,11 +252,24 @@
   \frametitle{Individuel-rational und Anreiz-kompatibel}
   \justifying
   \begin{thmP}[Nur m"undlicher Beweis]
-    Ein Anreiz-kompatibler direkter Mechanismus ist individuel-rationale genau dann, wenn
+    Ein Anreiz-kompatibler direkter Mechanismus ist individuel-rational genau dann, wenn
     \begin{equation*}
       U(\b{\tau}) \ge 0.
     \end{equation*}
   \end{thmP}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Beispiel: Individuel-rational und Anreiz-kompatibel}
+  \justifying
+  \begin{thmL}
+    Sei $[\b{\theta}, \bar{\theta}] = [0, \bar{\theta}]$ und $[\b{\tau}, \bar{\tau}] = [0, \bar{\tau}]$.
+    Dann ist der Anreiz-kompatible direkte Mechanismus charakterisiert durch
+      \begin{equation*}
+        q(\tau, \theta) := 1- e^{-(\tau + \theta)} \text{ und } t(\tau, \theta) := - e^{-(\tau + \theta)} \cdot (1 + \theta)
+      \end{equation*}
+      individuel-rational.
+  \end{thmL}
 \end{frame}
 
 \subsection{Optimaler Verkaufs-Mechanismus}
@@ -336,11 +334,7 @@
     \end{equation*}
     mit $t_{0}$ wie in Proposition vorher. Ferner gilt
     \begin{equation*}
-<<<<<<< HEAD
-      t(\b{\tau}, \b{\theta}) = \int_{p(\tau)}^{\theta}\hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
-=======
-      t(\b{\tau}, \b{\theta}) = \hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
->>>>>>> origin/master
+      t(\b{\tau}, \b{\theta}) = \int_{p(\b{\tau})}^{\theta}\hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
     \end{equation*}
   \end{thmS}
 \end{frame}

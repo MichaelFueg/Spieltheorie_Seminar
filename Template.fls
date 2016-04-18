@@ -410,6 +410,12 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmsso8.tfm
 OUTPUT Kapitel/Drittes_Kapitel.aux
 INPUT Kapitel/Drittes_Kapitel.tex
 INPUT Kapitel/Drittes_Kapitel.tex
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
 OUTPUT Template.nav
 OUTPUT Template.toc
 OUTPUT Template.snm
@@ -429,6 +435,7 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmex10.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb

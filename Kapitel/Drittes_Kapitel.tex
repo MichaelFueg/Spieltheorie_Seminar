@@ -2,10 +2,53 @@
 
 \subsection{Die Rolle der privaten Information}
 \begin{frame}
-\frametitle{...}
+\frametitle{Modeltransformation}
 \justifying
-...
+\begin{itemize}
+  \item Modellerweiterung durch unabh"angiges Signal
+  \begin{equation*}
+    \gamma := F(\theta \mid \tau) \Leftrightarrow \theta = F^{-1}(\gamma \mid \tau)
+  \end{equation*}
+  \item $\gamma$ unabh"angig von $\tau$
+\end{itemize}
+\begin{thmL}
+  Sei $\tilde{\psi}(\tau, \gamma) := \psi(\tau, F^{-1}(\gamma \mid \tau))$. Dann gilt
+  \begin{equation*}
+    \tilde{\psi}(\tau, \gamma) = F^{-1}(\gamma \mid \tau) - \dfrac{1-G(\tau)}{g(\tau)} \dfrac{\delta F^{-1}(\gamma \mid \tau)}{\delta \tau}.
+  \end{equation*}
+\end{thmL}
+\end{frame}
 
+\begin{frame}
+\frametitle{Anreiz-kompatibel bez"uglich $\gamma$}
+\justifying
+\begin{thmD}
+  Wir nennen einen direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ Anreiz-kompatibel bez"uglich $\gamma$, wenn
+  \begin{equation*}
+    U(\tau) \geq \int_{0}^{1} F^{-1}(\gamma \mid \tau) \tilde{q}(\tau', \gamma) - \tilde{t}(\tau', \gamma) \ d \gamma \text{~ f"ur alle } \tau' \in [\b{\tau}, \bar{\tau}].
+  \end{equation*}
+\end{thmD}
+\begin{thmP}
+  Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ \textcolor{blue}{Anreiz-kompatibel bez"uglich $\gamma$} ist, dann ist
+  \begin{equation*}
+    U(\tau) = U(\b{\tau}) + \int_{\b{\tau}}^{\tau} \int_{0}^{1} \dfrac{\delta F^{-1}(\gamma \mid \hat{\tau})}{\delta \tau} \tilde{q}(\hat{\tau}, \gamma) \ d \gamma \ d \hat{\tau}.
+  \end{equation*}
+\end{thmP}
+\end{frame}
+
+\begin{frame}
+\frametitle{Optimalit"at im privaten und "offentlichen Fall}
+\justifying
+\begin{thmP}
+  Angenommen $\psi(\tau, \theta)$ ist wachsend in $\tau$ und $\theta$. Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ optimal ist bei privat bekanntem $\gamma$, so ist er
+  auch optimal bei "offentlichem bekanntem $\gamma$.
+\end{thmP}
+\begin{itemize}
+  \item Verk"aufer entzieht zus"atzliche private Informationen die nach Signal $\tau$ erfhren werden zu Kosten $0$
+  \item Umkehrung von Proposition gilt nicht!
+  \item Verk"aufer will so viel ex post private Informationen wie M"oglich entziehen
+  \item Verk"aufer will so fr"uh wie m"oglich Mechanismus vorschlagen
+\end{itemize}
 \end{frame}
 
 \subsection{Sequentielles Mechanismus Design}

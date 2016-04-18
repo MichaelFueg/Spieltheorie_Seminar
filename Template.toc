@@ -6,8 +6,8 @@
 \beamer@subsectionintoc {2}{1}{Dynamischer direkter Mechanismus}{7}{0}{2}
 \beamer@subsectionintoc {2}{2}{Das Revelations-Prinzip}{9}{0}{2}
 \beamer@subsectionintoc {2}{3}{Anreiz-Kompatibilit"at und indiviuelle Rationalit"at}{11}{0}{2}
-\beamer@subsectionintoc {2}{4}{Optimaler Verkaufs-Mechanismus}{19}{0}{2}
-\beamer@sectionintoc {3}{Ausblicke}{22}{0}{3}
-\beamer@subsectionintoc {3}{1}{Die Rolle der privaten Information}{22}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sequentielles Mechanismus Design}{23}{0}{3}
-\beamer@subsectionintoc {3}{3}{Dynamische Allokationen}{24}{0}{3}
+\beamer@subsectionintoc {2}{4}{Optimaler Verkaufs-Mechanismus}{21}{0}{2}
+\beamer@sectionintoc {3}{Ausblicke}{24}{0}{3}
+\beamer@subsectionintoc {3}{1}{Die Rolle der privaten Information}{24}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sequentielles Mechanismus Design}{27}{0}{3}
+\beamer@subsectionintoc {3}{3}{Dynamische Allokationen}{28}{0}{3}
