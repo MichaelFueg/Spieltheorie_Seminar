@@ -31,7 +31,7 @@
     \item F"ur die Familie $F( \cdot \mid \tau)$ mit $\tau \in [ \b{\tau} , \bar{\tau} ]$ gilt
     \begin{equation}
       \tag{FOSD}
-      \delta F(\theta \mid \tau)/ \delta \tau < 0 \ f"ur \ alle \ \theta \in [ \b{\theta} , \bar{\theta} ]
+      \delta F(\theta \mid \tau)/ \delta \tau < 0 \ f"ur \ alle \ \theta \in  ( \b{\theta} , \bar{\theta} )
     \end{equation}
   \end{itemize}
 \end{frame}
@@ -51,14 +51,14 @@
   Zwei wesentliche Haupt"anderungen:
   \begin{enumerate}
     \item Verwende nun das kartesische Produkt $[ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ]$
-    \item Zwei Report-Ebenen: $\tau$ und $\theta$ (dynamisch hinsichtlich Zeit)
+    \item Zwei Report-Ebenen: $\tau$ und $\theta$
   \end{enumerate}
 \end{frame}
 
 \begin{frame}
   \frametitle{Ein-Personen-Entscheidungsproblem}
   \justifying
-  Optimale Entscheidung ist das Paar $\sigma = (\sigma_{1}, \sigma_{2})$ mit
+  Optimale Entscheidungsregel ist das Paar $\sigma = (\sigma_{1}, \sigma_{2})$ mit
   \begin{itemize}
     \item $\sigma_{1}: [ \b{\tau} , \bar{\tau} ] \rightarrow [ \b{\tau} , \bar{\tau} ]$ (Report ex ante Typ $\tau$)
     \item $\sigma_{2}: [ \b{\tau} , \bar{\tau} ] \times [ \b{\theta} , \bar{\theta} ]
@@ -73,7 +73,7 @@
   \begin{thmP}
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
     einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$, so dass gilt: \newline \newline
-    i) Die Strategie $\sigma$ gen"ugt
+    i) Die Strategie $\sigma'$ gen"ugt
     \begin{equation*}
       \sigma_{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\tau} ]
       \quad \text{und} \quad
@@ -94,7 +94,6 @@
     \item Im Gleichgewicht: Die Wahrheit wird berichtet
     \item Kein Gleichgewicht: Keine Aussage m"oglich
   \end{enumerate}
-  $\Rightarrow$ Definiere \textcolor{blue}{Anreiz-kompatibel} und \textcolor{blue}{individuell rational}: \\
   \begin{align*}
     \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] \\
     u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) \\
@@ -109,11 +108,11 @@
   \justifying
   \begin{thmD}
     Ein direkter Mechanismus ist \textcolor{blue}{Anreiz-kompatibel}, wenn \newline
-    i) er Anreiz-kompatibel gegeben seinem Ex-Post Typen $\theta$ ist:
+    i) er Anreiz-kompatibel im Bezug auf seinem Ex-Post Typen $\theta$ ist:
     \begin{equation*}
       u( \tau, \theta) \ge \theta q( \tau, \theta') - t( \tau, \theta') \quad \forall \tau \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta, \theta' \in [ \b{\theta} , \bar{\theta} ]
     \end{equation*}
-    ii) er Anreiz-kompatibel gegeben seinem Ex-Ante Typen $\tau$ ist:
+    ii) er Anreiz-kompatibel im Bezug auf seinem Ex-Ante Typen $\tau$ ist:
     \begin{align*}
       &U(\tau) \ge \int_{\text{\b{\theta}}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
       &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
@@ -132,7 +131,7 @@
     Ein direkter Mechanismus ist \textcolor{blue}{Anreiz-kompatibel} genau dann, wenn
     \begin{align*}
       &i) \quad u( \tau, \theta) \ge \theta q( \tau, \theta') - t( \tau, \theta') \quad \forall \tau \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta, \theta' \in [ \b{\theta} , \bar{\theta} ], \\
-      &ii) \quad U(\tau) \ge \hat{U}(\tau' \mit \tau) \quad \forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ].
+      &ii) \quad U(\tau) \ge \hat{U}(\tau' \mid \tau) \quad \forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ].
     \end{align*}
   \end{thmP}
   Betrachte jetzt Monotonie-Kriterien $\rightarrow$ gelten im Allgemeinen nicht:
@@ -148,12 +147,12 @@
   \justifying
   \begin{thmP}
     Ein direkter Mechanismus ist Anreiz-kompatibel gegeben seinem Ex-Post Typen $\theta$ genau dann, wenn \newline \newline
-    i) F"ur alle Ex-Ante Typen $\tau$ die Funktion $q(\tau, \theta)$ steigend in $\theta$ ist, \\
-    ii) F"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
+    i) f"ur alle Ex-Ante Typen $\tau$ die Funktion $q(\tau, \theta)$ steigend in $\theta$ ist, \\
+    ii) f"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
     \begin{equation*}
       \dfrac{\delta u(\tau, \theta)}{\delta \theta} = q(\tau, \theta),
     \end{equation*}
-    iii) F"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
+    iii) f"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
     \begin{equation*}
       t(\tau, \theta) = t(\tau, \b{\theta}) + (\theta q(\tau, \theta) - \b{\theta} q(\tau, \b{\theta})) - \int_{\text{\b{\theta}}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta}.
     \end{equation*}
@@ -200,8 +199,7 @@
   Wir haben festgestellt:
   \begin{enumerate}
     \item Vorige Propositionen implizieren zwei Restriktionen an $t(\tau, \theta)$.
-    \item F"uhren diese Restriktionen zu Widerspr"uchen?
-    \item Nein! N"achste Proposition impliziert: Gegeben $q(\tau, \theta)$, dann wird $t(\tau, \theta)$ festgelegt
+    \item N"achste Proposition impliziert: Gegeben $q(\tau, \theta)$, dann wird $t(\tau, \theta)$ festgelegt
     durch $t(\b{\tau}, \b{\theta}$).
   \end{enumerate}
 \end{frame}
@@ -227,9 +225,8 @@
   \frametitle{Existenz eines Transferplanes f"ur Anreiz-Kompatibilit"at}
   \justifying
   Anfangsproblem: Monotonie-Kriterium versagt im dynamischen Kontext f"ur Anreiz-Kompatibilit"at! \\
-  $\Rightarrow$ Wir ben"otigen eine zus"atzliche Existenz-Eigenschaft.
   \begin{thmP}
-    Wenn $q(\tau, \theta)$ wachsend in $\tau$ und $\theta$ ist, dann existiert einn Transferplan $t(\tau, \theta)$, so dass der direkte Mechanismus
+    Wenn $q(\tau, \theta)$ wachsend in $\tau$ und $\theta$ ist, dann existiert ein Transferplan $t(\tau, \theta)$, so dass der direkte Mechanismus
     Anreiz-kompatibel ist.
   \end{thmP}
 \end{frame}
@@ -287,7 +284,7 @@
     \begin{enumerate}
       \item Maximiere erwartete Auszahlung unter Ber"ucksichtigung von individueler Rationalit"at
       $\Rightarrow U(\b{\tau}) = 0$
-      \item Nach Modelannahme ist $\psi(\tau, \theta)$ stetig $\Rightarrow p(\tau) = \min \{\hat{\theta} \in [\b{\theta}, \bar{\theta}] \mid \psi(\tau, \hat{\theta}) \ge 0 \}$
+      \item Nach Modellannahme ist $\psi(\tau, \theta)$ stetig $\Rightarrow p(\tau) = \min \{\hat{\theta} \in [\b{\theta}, \bar{\theta}] \mid \psi(\tau, \hat{\theta}) \ge 0 \}$
       wohldefiniert
       \item Erwartete Auszahlung linear in $q(\tau, \theta)$
       $\Rightarrow q(\tau, \theta) = \left\{\begin{array}{lr}
