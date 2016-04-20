@@ -1,26 +1,6 @@
 \section{Dynamische private Information}
 
 \begin{frame}
-  \frametitle{Modellrahmen}
-  \justifying
-  Modellrahmen ist Zwei-Personen Spiel:
-  \begin{itemize}
-    \item \textcolor{blue}{Verk"aufer}
-    \begin{itemize}
-      \item Verkauft unteilbares Gut
-      \item Legt Mechanismus $\Gamma$ fest
-    \end{itemize}
-    \item \textcolor{blue}{K"aufer}
-    \begin{itemize}
-      \item Bewertung des Gutes $\theta$ zun"achst unbekannt
-      \item Erh"alt Signal $\tau$, welches mit $\theta$ korreliert ist
-      \item Wenn er den Mechanismus aktzeptiert, berichtet er $\tau$
-      \item $\theta$ erf"ahrt er erst nach Aktzeptieren des Mechanismus $\Gamma$ und berichtet sie danach
-    \end{itemize}
-  \end{itemize}
-\end{frame}
-
-\begin{frame}
   \frametitle{Mathemtische Modellierung}
   \justifying
   Sei im Folgenden f"ur das Signal $\tau$
@@ -90,7 +70,7 @@
 \begin{frame}
   \frametitle{Das Revelations-Prinzip}
   \justifying
-  \begin{thmP}[Nur Beweisidee und Interpretation]
+  \begin{thmP}
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
     einen direkten Mechanismus $\Gamma'$ und eine optimale K"auferstrategie $\sigma' =(\sigma_{1}', \sigma_{2}')$, so dass gilt: \newline \newline
     i) Die Strategie $\sigma$ gen"ugt
@@ -111,7 +91,7 @@
   \justifying
   Betrachte direkte Mechanismen:
   \begin{enumerate}
-    \item Im Gleichgewicht: Die Wahrheit wird berichtet (keine Aussage f"ur $\tau$ m"oglich?)
+    \item Im Gleichgewicht: Die Wahrheit wird berichtet
     \item Kein Gleichgewicht: Keine Aussage m"oglich
   \end{enumerate}
   $\Rightarrow$ Definiere \textcolor{blue}{Anreiz-kompatibel} und \textcolor{blue}{individuell rational}: \\
@@ -119,7 +99,7 @@
     \theta^{r} &: [ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ] \\
     u( \tau, \theta) &= \theta q( \tau, \theta) - t(\tau, \theta) \\
     \hat{U}( \tau' | \tau) &= \int_{\text{\b{\theta}}}^{\bar{\theta}} u( \tau', \hat{\theta}) f(\hat{\theta} \mid \tau) \ d \hat{\theta} \\
-    U(\tau) &= \hat{U}( \tau | \tau)
+    U(\hat{\tau}) &= \hat{U}( \hat{\tau} | \hat{\tau})
   \end{align*}
 \end{frame}
 
@@ -148,7 +128,7 @@
 \begin{frame}
   \frametitle{Vereinfache Anreiz-Kompatibilit"at I}
   \justifying
-  \begin{thmP}[Nur Beweisidee und Interpretation]
+  \begin{thmP}
     Ein direkter Mechanismus ist \textcolor{blue}{Anreiz-kompatibel} genau dann, wenn
     \begin{align*}
       &i) \quad u( \tau, \theta) \ge \theta q( \tau, \theta') - t( \tau, \theta') \quad \forall \tau \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta, \theta' \in [ \b{\theta} , \bar{\theta} ], \\
@@ -166,7 +146,7 @@
 \begin{frame}
   \frametitle{Vereinfache Anreiz-Kompatibilit"at II}
   \justifying
-  \begin{thmP}[Nur Beweisidee und Interpretation]
+  \begin{thmP}
     Ein direkter Mechanismus ist Anreiz-kompatibel gegeben seinem Ex-Post Typen $\theta$ genau dann, wenn \newline \newline
     i) F"ur alle Ex-Ante Typen $\tau$ die Funktion $q(\tau, \theta)$ steigend in $\theta$ ist, \\
     ii) F"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
@@ -196,7 +176,7 @@
 \begin{frame}
   \frametitle{Implikationen aus Anreiz-Kompatibilit"at I}
   \justifying
-  \begin{thmP}[Beweis an der Tafel]
+  \begin{thmP}
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle Ex-Ante Typen $\tau$:
     \begin{align*}
       i)& \ U'(\tau) = - \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
@@ -207,6 +187,12 @@
     \end{align*}
   \end{thmP}
 \end{frame}
+
+\bgroup
+\setbeamercolor{background canvas}{bg=black}
+\begin{frame}[plain]{}
+\end{frame}
+\egroup
 
 \begin{frame}
   \frametitle{Implikationen aus Anreiz-Kompatibilit"at II}
@@ -223,7 +209,7 @@
 \begin{frame}
   \frametitle{Implikationen aus Anreiz-Kompatibilit"at III}
   \justifying
-  \begin{thmP}[Beweis an der Tafel]
+  \begin{thmP}
     Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt
     \begin{equation*}
       t(\tau, \theta) = t_{0}(\tau) + \theta q(\tau, \theta) - \int_{\text{\b{\theta}}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta},
@@ -242,16 +228,16 @@
   \justifying
   Anfangsproblem: Monotonie-Kriterium versagt im dynamischen Kontext f"ur Anreiz-Kompatibilit"at! \\
   $\Rightarrow$ Wir ben"otigen eine zus"atzliche Existenz-Eigenschaft.
-  \begin{thmP}[Beweisskizze Tafel?]
+  \begin{thmP}
     Wenn $q(\tau, \theta)$ wachsend in $\tau$ und $\theta$ ist, dann existiert einn Transferplan $t(\tau, \theta)$, so dass der direkte Mechanismus
     Anreiz-kompatibel ist.
   \end{thmP}
 \end{frame}
 
 \begin{frame}
-  \frametitle{Individuel-rational und Anreiz-kompatibel}
+  \frametitle{Individuel-rational}
   \justifying
-  \begin{thmP}[Nur m"undlicher Beweis]
+  \begin{thmP}
     Ein Anreiz-kompatibler direkter Mechanismus ist individuel-rational genau dann, wenn
     \begin{equation*}
       U(\b{\tau}) \ge 0.
@@ -260,7 +246,7 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{Beispiel: Individuel-rational und Anreiz-kompatibel}
+  \frametitle{Beispiel: Individuel-rational}
   \justifying
   \begin{thmL}
     Sei $[\b{\theta}, \bar{\theta}] = [0, \bar{\theta}]$ und $[\b{\tau}, \bar{\tau}] = [0, \bar{\tau}]$.
@@ -276,7 +262,7 @@
 \begin{frame}
   \frametitle{Die erwartete Auszahlung}
   \justifying
-  \begin{thmL}[An der Tafel - 4 Zeiler]
+  \begin{thmL}
     Die erwartete Auszahlung f"ur den Verk"aufer ergibt sich als
     \begin{align*}
       &\int_{\b{\tau}}^{\bar{\tau}} \int_{\text{\b{\theta}}}^{\bar{\theta}} [\hat{\theta} q(\hat{\tau}, \hat{\theta}) - u(\hat{\tau}, \hat{\theta})]
@@ -317,7 +303,7 @@
 \begin{frame}
   \frametitle{Der optimale direkte Mechanismus}
   \justifying
-  \begin{thmS}[Wenn noch Zeit, Beweis an Tafel]
+  \begin{thmS}
     Unter der vorigen Annahme ist ein Anreiz-kompatibler und individuel rationaler direkter Mechanismus optimal genau dann, wenn
     \begin{equation*}
       q(\tau, \theta) = \left\{\begin{array}{lr}
@@ -338,3 +324,9 @@
     \end{equation*}
   \end{thmS}
 \end{frame}
+
+\bgroup
+\setbeamercolor{background canvas}{bg=black}
+\begin{frame}[plain]{}
+\end{frame}
+\egroup

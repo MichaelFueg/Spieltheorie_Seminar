@@ -23,13 +23,13 @@
 \frametitle{Anreiz-kompatibel bez"uglich $\gamma$}
 \justifying
 \begin{thmD}
-  Wir nennen einen direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ Anreiz-kompatibel bez"uglich $\gamma$, wenn
+  Wir nennen einen direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ \textcolor{blue}{Anreiz-kompatibel bez"uglich $\gamma$}, wenn
   \begin{equation*}
     U(\tau) \geq \int_{0}^{1} F^{-1}(\gamma \mid \tau) \tilde{q}(\tau', \gamma) - \tilde{t}(\tau', \gamma) \ d \gamma \text{~ f"ur alle } \tau' \in [\b{\tau}, \bar{\tau}].
   \end{equation*}
 \end{thmD}
 \begin{thmP}
-  Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ \textcolor{blue}{Anreiz-kompatibel bez"uglich $\gamma$} ist, dann ist
+  Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ Anreiz-kompatibel bez"uglich $\gamma$ ist, dann ist
   \begin{equation*}
     U(\tau) = U(\b{\tau}) + \int_{\b{\tau}}^{\tau} \int_{0}^{1} \dfrac{\delta F^{-1}(\gamma \mid \hat{\tau})}{\delta \tau} \tilde{q}(\hat{\tau}, \gamma) \ d \gamma \ d \hat{\tau}.
   \end{equation*}
@@ -44,25 +44,93 @@
   auch optimal bei "offentlichem bekanntem $\gamma$.
 \end{thmP}
 \begin{itemize}
-  \item Verk"aufer entzieht zus"atzliche private Informationen die nach Signal $\tau$ erfhren werden zu Kosten $0$
-  \item Umkehrung von Proposition gilt nicht!
-  \item Verk"aufer will so viel ex post private Informationen wie M"oglich entziehen
+  \item Verk"aufer entzieht zus"atzliche private Informationen die nach Signal $\tau$ erfahren werden zu Kosten $0$
+  \item Verk"aufer will so viel ex post private Informationen wie m"oglich entziehen
   \item Verk"aufer will so fr"uh wie m"oglich Mechanismus vorschlagen
 \end{itemize}
 \end{frame}
 
 \subsection{Sequentielles Mechanismus Design}
 \begin{frame}
-\frametitle{...}
+\frametitle{Modellerweiterung auf $N$ K"aufer I}
 \justifying
-...
+Betrachte indiziertes Modell
+\begin{itemize}
+  \item Spielermenge $I = \{ 1,...,N \}$
+  \item Signal $\tau_{i}$ und Bewertung $\theta_{i}$ mit $i \in I$
+  \item $\tau:= (\tau_{1}, ...,\tau_{N}), \theta := (\theta_{1}, ...,\theta_{N}), \Tau := [\b{\tau}, \bar{\tau}], \Theta := [\b{\theta}, \bar{\theta}]$
+  \item $q(\tau, \theta) = (q_{1}(\tau, \theta), ...,q_{N}(\tau, \theta))$ und $\Delta := \{ (q_{1},...,q_{N}) \mid 0 \leq q_{i} \leq 1 \ \forall i \in I, \sum_{i \in I} q_{i} \leq 1 \}$
+\end{itemize}
+\begin{thmD}
+  Ein (dynamischer) \textcolor{blue}{direkter Mechanismus} besteht aus den beiden Funktionen
+  \begin{equation*}
+    q: \Tau \times \Theta \rightarrow \Delta
+    \quad \text{und} \quad
+    t_{i}:\Tau \times \Theta \rightarrow \mathbb{R}.
+  \end{equation*}
+\end{thmD}
+\end{frame}
 
+\begin{frame}
+\frametitle{Modellerweiterung auf $N$ K"aufer II}
+\justifying
+Indizierung setzt sich durch alle vorigen Ergebnisse fort:
+\begin{itemize}
+  \item Maximiere die erwartete Auszahlung des Verk"aufers
+  \item Charakterisierung optimaler direkter Mechanismen $\{ q_{i}, t_{i}\}$
+  \item Implementierung durch \textcolor{blue}{Benachteiligte Auktion}
+  \begin{itemize}
+    \item 1. Runde: M"oglichkeit von Abgabe $t_{0}(\tau_{i})$ und Zuteilung einer Pr"amie $p(\tau_{i})$
+    \item 2. Runde: Zweitpreisauktion zuz"uglich $p(\tau_{i})$
+    \item Wie ist die Abgabe $t_{0}(\tau_{i})$ und die Pr"amie $p(\tau_{i})$ zu w"ahlen?
+  \end{itemize}
+\end{itemize}
 \end{frame}
 
 \subsection{Dynamische Allokationen}
 \begin{frame}
-\frametitle{...}
+\frametitle{Wiederholtes spiel mit Diskontierung}
 \justifying
-...
+\begin{itemize}
+  \item Zweipersonenspiel, fixiere $\theta > 0$ und betrachte Perioden $\tau = 1,...,T$
+  \item Modelliere mit Diskontierungsfaktor $\delta \in [0,1)$
+  \item Betrachte periodenabh"angige $q_{\tau}$ und $t_{\tau}$
+  \item $u(\theta) := \sum_{\tau=1}^{T} \delta^{\tau -1} (\theta q_\tau(\theta) - t_\tau(\theta))$
+\end{itemize}
 
+\begin{thmD}
+  Ein (dynamischer) \textcolor{blue}{direkter Mechanismus} besteht aus den beiden Funktionen
+  \begin{equation*}
+    q:[ \b{\theta} , \bar{\theta} ] \rightarrow [0,1]^{T}
+    \quad \text{und} \quad
+    t:[ \b{\theta} , \bar{\theta} ] \rightarrow \mathbb{R}^{T}.
+  \end{equation*}
+\end{thmD}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Anreiz-kompatibel und individuel-rational}
+\justifying
+\begin{thmD}
+  Ein direkter Mechanismus bestehend aus den beiden Funktionen $q=(q_{1},...,q_{T})$ und $t = (t_{1}, ..., t_{T})$ ist \textcolor{blue}{Anreiz-kompatibel}, wenn f"ur alle $\theta,\theta' \in [ \b{\theta} , \bar{\theta} ]$
+  \begin{equation*}
+    u(\theta) \geq \sum_{\tau=1}^{T} \delta^{\tau -1} (\theta q_\tau(\theta') - t_\tau(\theta')).
+  \end{equation*}
+  Ein direkter Mechanismus ist \textcolor{blue}{individuel rational}, wenn
+  \begin{equation*}
+    u(\theta) \ge 0 \ \ \forall \theta \in [ \b{\theta} , \bar{\theta} ].
+  \end{equation*}
+\end{thmD}
+\end{frame}
+
+\begin{frame}
+\frametitle{Optimalit"atskriterium}
+\justifying
+Die Optimalit"at l"asst sich charakterisieren:
+\begin{itemize}
+  \item Optimaler Mechanismus reduziert sich gem"a\ss \ Kapitel 2: \\ Eine Periode ohne Diskontierung
+  \item K"aufer- vs. Verk"auferstrategien
+  \item Wie kann ich gegenseitige Beeinflussung verhindern?
+\end{itemize}
 \end{frame}
