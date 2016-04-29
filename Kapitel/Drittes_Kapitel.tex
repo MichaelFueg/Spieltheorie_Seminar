@@ -2,7 +2,7 @@
 
 \subsection{Die Rolle der privaten Information}
 \begin{frame}
-\frametitle{Modeltransformation}
+\frametitle{Modelltransformation}
 \justifying
 \begin{itemize}
   \item Modellerweiterung durch unabh"angiges Signal
@@ -20,16 +20,16 @@
 \end{frame}
 
 \begin{frame}
-\frametitle{Anreiz-kompatibel im Bezug auf $\gamma$}
+\frametitle{Anreiz-kompatibel mit beobachtbarem $\gamma$}
 \justifying
 \begin{thmD}
-  Wir nennen einen direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ \textcolor{blue}{Anreiz-kompatibel im Bezug auf $\gamma$}, wenn
+  Wir nennen einen direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ \textcolor{blue}{Anreiz-kompatibel mit beobachtbarem $\gamma$}, wenn
   \begin{equation*}
     U(\tau) \geq \int_{0}^{1} F^{-1}(\gamma \mid \tau) \tilde{q}(\tau', \gamma) - \tilde{t}(\tau', \gamma) \ d \gamma \text{~ f"ur alle } \tau' \in [\b{\tau}, \bar{\tau}].
   \end{equation*}
 \end{thmD}
 \begin{thmP}
-  Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ Anreiz-kompatibel bez"uglich $\gamma$ ist, dann ist
+  Wenn der direkte Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ Anreiz-kompatibel mit beobachtbarem $\gamma$ ist, dann ist
   \begin{equation*}
     U(\tau) = U(\b{\tau}) + \int_{\b{\tau}}^{\tau} \int_{0}^{1} \dfrac{\delta F^{-1}(\gamma \mid \hat{\tau})}{\delta \tau} \tilde{q}(\hat{\tau}, \gamma) \ d \gamma \ d \hat{\tau}.
   \end{equation*}
@@ -40,8 +40,8 @@
 \frametitle{Optimalit"at im privaten und "offentlichen Fall}
 \justifying
 \begin{thmP}
-  Angenommen $\psi(\tau, \theta)$ ist wachsend in $\tau$ und $\theta$. Wenn der direkten Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ optimal ist bei privat bekanntem $\gamma$, so ist er
-  auch optimal bei "offentlichem bekanntem $\gamma$.
+  Angenommen $\psi(\tau, \theta)$ ist wachsend in $\tau$ und $\theta$. Wenn der direkte Mechanismus $(\tilde{q}(\tau, \gamma), \tilde{t}(\tau, \gamma))$ optimal ist bei privat beobachtbarem $\gamma$, so ist er
+  auch optimal bei "offentlichem beobachtbarem $\gamma$.
 \end{thmP}
 \begin{itemize}
   \item Verk"aufer entzieht zus"atzliche private Informationen die nach Signal $\tau$ erfahren werden zu Kosten $0$
@@ -50,7 +50,7 @@
 \end{itemize}
 \end{frame}
 
-\subsection{Sequentielles Mechanismus Design}
+\subsection{Sequentielles Mechanismus-Design}
 \begin{frame}
 \frametitle{Modellerweiterung auf $N$ K"aufer I}
 \justifying
@@ -89,10 +89,10 @@ Indizierung setzt sich durch alle vorigen Ergebnisse fort:
 
 \subsection{Dynamische Allokationen}
 \begin{frame}
-\frametitle{Wiederholtes spiel mit Diskontierung}
+\frametitle{Wiederholtes Spiel mit Diskontierung}
 \justifying
 \begin{itemize}
-  \item Zweipersonenspiel, fixiere $\theta > 0$ und betrachte Perioden $\tau = 1,...,T$
+  \item Zwei-Personen-Spiel, fixiere $\theta > 0$ und betrachte Perioden $\tau = 1,...,T$
   \item Modelliere mit Diskontierungsfaktor $\delta \in [0,1)$
   \item Betrachte periodenabh"angige $q_{\tau}$ und $t_{\tau}$
   \item $u(\theta) := \sum_{\tau=1}^{T} \delta^{\tau -1} (\theta q_\tau(\theta) - t_\tau(\theta))$

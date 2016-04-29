@@ -68,7 +68,7 @@
 
 \subsection{Das Revelations-Prinzip}
 \begin{frame}
-  \frametitle{Das Revelations-Prinzip}
+  \frametitle{Das dynamische Revelations-Prinzip}
   \justifying
   \begin{thmP}
     F"ur jeden dynamischen Mechanismus $\Gamma$ und jede optimale K"auferstrategie $\sigma$ in $\Gamma$ gibt es
@@ -77,7 +77,7 @@
     \begin{equation*}
       \sigma_{1}' (\tau) = \tau \ \forall  \tau \in [\b{\tau} , \bar{\tau} ]
       \quad \text{und} \quad
-      \sigma_{2}' (\tau, \theta, \tau) = \theta \ \forall  \theta \in [\b{\theta} , \bar{\theta} ], \tau \in [\b{\tau} , \bar{\tau} ]
+      \sigma_{2}' (\tau, \theta, \tau) = \theta \ \forall  \theta \in [\b{\theta} , \bar{\theta} ], \tau \in [\b{\tau} , \bar{\tau} ].
     \end{equation*}
     ii) Wenn der K"aufer seine optimale Strategie spielt, dann ist f"ur alle
     $(\tau, \theta) \in [\b{\tau} , \bar{\tau} ] \times [\b{\theta} , \bar{\theta} ] $ die
@@ -108,18 +108,18 @@
   \justifying
   \begin{thmD}
     Ein direkter Mechanismus ist \textcolor{blue}{Anreiz-kompatibel}, wenn \newline
-    i) er Anreiz-kompatibel im Bezug auf seinem Ex-Post Typen $\theta$ ist:
+    i) er Anreiz-kompatibel im Bezug auf seinem ex post Typen $\theta$ ist:
     \begin{equation*}
-      u( \tau, \theta) \ge \theta q( \tau, \theta') - t( \tau, \theta') \quad \forall \tau \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta, \theta' \in [ \b{\theta} , \bar{\theta} ]
+      u( \tau, \theta) \ge \theta q( \tau, \theta') - t( \tau, \theta') \quad \forall \tau \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta, \theta' \in [ \b{\theta} , \bar{\theta} ].
     \end{equation*}
-    ii) er Anreiz-kompatibel im Bezug auf seinem Ex-Ante Typen $\tau$ ist:
+    ii) er Anreiz-kompatibel im Bezug auf seinem ex ante Typen $\tau$ ist:
     \begin{align*}
       &U(\tau) \ge \int_{\text{\b{\theta}}}^{\bar{\theta}} [ \hat{\theta} q(\tau', \theta^{r}(\hat{\theta})) - t( \tau', \theta^{r}(\hat{\theta})) ] f(\hat{\theta} \mid \tau) d \hat{\theta}  \\
       &\forall \tau, \tau' \in [ \b{\tau} , \bar{\tau} ] \ \text{und} \ \theta^{r}:[ \b{\theta} , \bar{\theta} ] \rightarrow [ \b{\theta} , \bar{\theta} ].
     \end{align*}
     Ein direkter Mechanismus ist \textcolor{blue}{individuel rational}, wenn
     \begin{equation*}
-      U(\tau) \ge 0 \ \ \forall \tau \in [ \b{\tau} , \bar{\tau} ]
+      U(\tau) \ge 0 \ \ \forall \tau \in [ \b{\tau} , \bar{\tau} ].
     \end{equation*}
   \end{thmD}
 \end{frame}
@@ -136,9 +136,9 @@
   \end{thmP}
   Betrachte jetzt Monotonie-Kriterien $\rightarrow$ gelten im Allgemeinen nicht:
   \begin{enumerate}
-    \item Anreiz-Kompatibilit"at des Ex-Ante Typen $\tau$ impliziert nicht Monotonie der Allokationsregel. \\
+    \item Anreiz-Kompatibilit"at des ex ante Typen $\tau$ impliziert nicht Monotonie der Allokationsregel. \\
     $\Rightarrow$ Wesentlicher Unterschied zu statischem Screening Model.
-    \item Betrachte Anreiz-Kompatibilit"at gegeben des Ex-Post Typen $\theta$.
+    \item Betrachte Anreiz-Kompatibilit"at gegeben des ex post Typen $\theta$.
   \end{enumerate}
 \end{frame}
 
@@ -146,13 +146,13 @@
   \frametitle{Vereinfache Anreiz-Kompatibilit"at II}
   \justifying
   \begin{thmP}
-    Ein direkter Mechanismus ist Anreiz-kompatibel gegeben seinem Ex-Post Typen $\theta$ genau dann, wenn \newline \newline
-    i) f"ur alle Ex-Ante Typen $\tau$ die Funktion $q(\tau, \theta)$ steigend in $\theta$ ist, \\
-    ii) f"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
+    Ein direkter Mechanismus ist Anreiz-kompatibel gegeben seinem ex post Typen $\theta$ genau dann, wenn \newline \newline
+    i) f"ur alle ex ante Typen $\tau$ die Funktion $q(\tau, \theta)$ steigend in $\theta$ ist, \\
+    ii) f"ur alle ex ante Typen $\tau$ und ex post Typen $\theta$:
     \begin{equation*}
       \dfrac{\delta u(\tau, \theta)}{\delta \theta} = q(\tau, \theta),
     \end{equation*}
-    iii) f"ur alle Ex-Ante Typen $\tau$ und Ex-Post Typen $\theta$:
+    iii) f"ur alle ex ante Typen $\tau$ und ex post Typen $\theta$:
     \begin{equation*}
       t(\tau, \theta) = t(\tau, \b{\theta}) + (\theta q(\tau, \theta) - \b{\theta} q(\tau, \b{\theta})) - \int_{\text{\b{\theta}}}^{\theta} q(\tau, \hat{\theta}) \ d \hat{\theta}.
     \end{equation*}
@@ -176,7 +176,7 @@
   \frametitle{Implikationen aus Anreiz-Kompatibilit"at I}
   \justifying
   \begin{thmP}
-    Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle Ex-Ante Typen $\tau$:
+    Wenn ein direkter Mechanismus Anreiz-kompatibel ist, dann gilt f"ur alle ex ante Typen $\tau$:
     \begin{align*}
       i)& \ U'(\tau) = - \int_{\text{\b{\theta}}}^{\bar{\theta}} q(\tau, \hat{\theta}) \dfrac{\delta F(\hat{\theta} \mid \tau)}{\delta \tau} \ d \hat{\theta}, \\
       ii)& \ \int_{\text{\b{\theta}}}^{\bar{\theta}} t( \tau, \hat{\theta}) f( \hat{\theta} \mid \tau) \ d \hat{\theta} = \int_{\text{\b{\theta}}}^{\bar{\theta}} \hat{\theta} q(\tau, \hat{\theta})
@@ -311,13 +311,13 @@
     und
     \begin{equation*}
       t(\tau, \theta) = \left\{\begin{array}{lr}
-        t_{0}(\tau) p(\tau), & \text{falls } \theta \ge p(\tau) \\
-        t_{0}, & \text{sonst },
+        t_{0}(\tau) + p(\tau), & \text{falls } \theta \ge p(\tau) \\
+        t_{0}(\tau), & \text{sonst },
         \end{array}
     \end{equation*}
     mit $t_{0}$ wie in Proposition vorher. Ferner gilt
     \begin{equation*}
-      t(\b{\tau}, \b{\theta}) = \int_{p(\b{\tau})}^{\theta}\hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
+      t(\b{\tau}, \b{\theta}) = \int_{p(\b{\tau})}^{\bar{\theta}}\hat{\theta} f(\hat{\theta} \mid \b{\tau}) \ d \hat{\theta} - p(\b{\tau}) [1 - F(p(\b{\tau}) \mid \b{\tau})] + \b{\theta} q(\b{\tau}, \b{\theta}).
     \end{equation*}
   \end{thmS}
 \end{frame}

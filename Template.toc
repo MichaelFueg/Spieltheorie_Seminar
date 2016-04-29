@@ -1,7 +1,7 @@
 \beamer@endinputifotherversion {3.36pt}
 \select@language {ngerman}
 \select@language {ngerman}
-\beamer@sectionintoc {1}{Vom statischen zum dynamischen Mechanismus Design}{3}{0}{1}
+\beamer@sectionintoc {1}{Vom statischen zum dynamischen Mechanismus-Design}{3}{0}{1}
 \beamer@sectionintoc {2}{Dynamische private Information}{4}{0}{2}
 \beamer@subsectionintoc {2}{1}{Dynamischer direkter Mechanismus}{6}{0}{2}
 \beamer@subsectionintoc {2}{2}{Das Revelations-Prinzip}{8}{0}{2}
@@ -9,5 +9,5 @@
 \beamer@subsectionintoc {2}{4}{Optimaler Verkaufs-Mechanismus}{21}{0}{2}
 \beamer@sectionintoc {3}{Ausblicke}{25}{0}{3}
 \beamer@subsectionintoc {3}{1}{Die Rolle der privaten Information}{25}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sequentielles Mechanismus Design}{28}{0}{3}
+\beamer@subsectionintoc {3}{2}{Sequentielles Mechanismus-Design}{28}{0}{3}
 \beamer@subsectionintoc {3}{3}{Dynamische Allokationen}{30}{0}{3}
